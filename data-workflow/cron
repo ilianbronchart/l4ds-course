@@ -1,1 +1,1 @@
-0 12 * * * /path/to/fetch-data.sh
+0 12 * * * ~/l4ds-course/data-workflow/fetch-data.sh
