@@ -11,6 +11,9 @@ JSON_DIR="./data"
 JSON_FILE="$JSON_DIR/bikes-$(date +%Y:%m:%d-%H:%M:%S).json"
 DATE_THRESHOLD=$(date -u -d "-24 hours" +%s) # Bikes stolen in the last 24 hours
 
+# Create the data directory if it does not exist
+mkdir -p "$JSON_DIR"
+
 # Fetch count data
 COUNT=$(curl -s "$API_URL$COUNT_ENDPOINT?page=$PAGE&per_page=$PER_PAGE&stolenness=$STOLENNESS" | jq -r '.stolen')
 
