@@ -19,11 +19,11 @@ html = template.render(timestamp=timestamp)
 if not os.path.exists('./docs'):
     os.makedirs('./docs')
 
-# Copy all files from latest_report directory to dist directory
+# Copy all files from latest_report directory to docs directory
 for file_name in os.listdir(f'./reports/{latest_report}'):
-    shutil.copy(f'./reports/{latest_report}/{file_name}', f'./dist/{file_name}')
+    shutil.copy(f'./reports/{latest_report}/{file_name}', f'./docs/{file_name}')
 
-# Save report.html to dist directory
-with open(f'./docs/report.html', 'w') as f:
+# Save report.html to docs directory
+with open(f'./docs/index.html', 'w') as f:
     f.write(html)
 
