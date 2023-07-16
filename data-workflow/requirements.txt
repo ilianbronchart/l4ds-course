@@ -1,0 +1,6 @@
+pandas
+seaborn
+folium
+matplotlib
+jinja2
+PyGithub

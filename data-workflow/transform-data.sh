@@ -30,7 +30,7 @@ for file in $input_dir/*.json; do
   for object in "${object_array[@]}"; do
     # Extract necessary fields from JSON using jq
     date_stolen=$(echo $object | jq -r '.date_stolen // ""')
-    description=$(echo $object | jq -r '.description // ""')
+    description=$(echo $object | jq -r '.description // ""' | tr '\n' ' ' | tr -d '\r')
     frame_colors=$(echo $object | jq -r '.frame_colors | join(":") // ""')
     frame_model=$(echo $object | jq -r '.frame_model // ""')
     id=$(echo $object | jq -r '.id // ""')
