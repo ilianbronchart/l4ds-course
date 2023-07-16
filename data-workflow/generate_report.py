@@ -1,7 +1,8 @@
 import os
 import shutil
 from jinja2 import Environment, FileSystemLoader
-# from github import Github
+import subprocess
+
 
 # Set up Jinja2 template environment
 env = Environment(loader=FileSystemLoader('.'))
@@ -27,3 +28,7 @@ for file_name in os.listdir(f'./reports/{latest_report}'):
 with open(f'../docs/index.html', 'w') as f:
     f.write(html)
 
+# Push changes to git repository
+subprocess.run(['git', 'add', '../docs'])
+subprocess.run(['git', 'commit', '-m', 'Update docs folder'])
+subprocess.run(['git', 'push'])
