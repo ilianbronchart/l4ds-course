@@ -7,7 +7,7 @@ COUNT_ENDPOINT="/search/count"
 PAGE="1"
 PER_PAGE="100"
 STOLENNESS="stolen"
-JSON_DIR="./data" # TODO env var?
+JSON_DIR="../data" # TODO env var?
 JSON_FILE="$JSON_DIR/bikes-$(date +%Y:%m:%d-%H:%M:%S).json"
 DATE_THRESHOLD=$(date -u -d "-24 hours" +%s) # Bikes stolen in the last 24 hours
 

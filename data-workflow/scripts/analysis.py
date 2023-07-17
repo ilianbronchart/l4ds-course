@@ -6,13 +6,13 @@ import datetime as dt
 import matplotlib.pyplot as plt
 
 now = dt.datetime.now().strftime('%d:%m:%Y-%H:%M:%S')
-folder_path = f'./reports/report-{now}'
+report_folder_path = f'../reports/report-{now}'
 
 def prepare_df():
-    csv_files = [f for f in os.listdir('./csv/anglo-saxon/') if f.endswith('.csv')]
+    csv_files = [f for f in os.listdir('../csv/anglo-saxon/') if f.endswith('.csv')]
 
     # Concatenate all CSV files into a single dataframe
-    df = pd.concat([pd.read_csv('./csv/anglo-saxon/' + f) for f in csv_files])
+    df = pd.concat([pd.read_csv('../csv/anglo-saxon/' + f) for f in csv_files])
     df['date_stolen'] = pd.to_datetime(df['date_stolen'], unit='s')
     df['colors'] = df['frame_colors'].str.split(':').apply(tuple)
     df.drop_duplicates(inplace=True)
@@ -37,7 +37,7 @@ def bikes_per_day(df):
     ax.set_xticklabels(tick_labels, rotation=45)
     ax.set_title('Number of Stolen Bikes per Day')
     fig = ax.get_figure()
-    fig.savefig(f'{folder_path}/bikes_per_day.png')
+    fig.savefig(f'{report_folder_path}/bikes_per_day.png')
 
 def bikes_per_ownership_years(df):
     # Filter out rows where the year column is null
@@ -57,7 +57,7 @@ def bikes_per_ownership_years(df):
     ax = sns.barplot(x='years_since_purchase', y='count', data=yearly_counts, color='#1E90FF', order=order)
     ax.set(xlabel='Years Since Purchase', ylabel='Number of Stolen Bikes')
     ax.set_title('Number of Stolen Bikes by Years of Ownership')
-    fig.savefig(f'{folder_path}/bikes_per_ownership_years.png')
+    fig.savefig(f'{report_folder_path}/bikes_per_ownership_years.png')
 
 def bikes_per_manufacturer(df):
     # Group the dataframe by manufacturer and count the number of stolen bikes for each manufacturer
@@ -72,7 +72,7 @@ def bikes_per_manufacturer(df):
     ax.set(xlabel='Manufacturer', ylabel='Number of Stolen Bikes')
     ax.set_title('Number of Stolen Bikes by Manufacturer')
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right')
-    fig.savefig(f'{folder_path}/bikes_per_manufacturer.png')
+    fig.savefig(f'{report_folder_path}/bikes_per_manufacturer.png')
 
 def bike_locations(df):
     df_copy = df.copy()
@@ -87,7 +87,7 @@ def bike_locations(df):
         folium.CircleMarker(location=[row['latitude'], row['longitude']], radius=5, color='red', fill=True, fill_color='red').add_to(m)
 
     # Save the map to a file
-    m.save(f'{folder_path}/bike_locations.html')
+    m.save(f'{report_folder_path}/bike_locations.html')
 
 def bikes_per_color(df):
     df_colors = df.explode('colors')
@@ -99,16 +99,16 @@ def bikes_per_color(df):
     ax = sns.barplot(x=color_counts.index, y=color_counts.values, color='#1E90FF')
     ax.set_title('Number of Stolen Bikes by Color')
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right')
-    fig.savefig(f'{folder_path}/bikes_per_color.png')
+    fig.savefig(f'{report_folder_path}/bikes_per_color.png')
 
 # Call each function and save the resulting charts and maps to files
 df = prepare_df()
 
-if not os.path.exists('./reports'):
-    os.makedirs('./reports')
+if not os.path.exists('../reports'):
+    os.makedirs('../reports')
 
-if not os.path.exists(folder_path):
-    os.makedirs(folder_path)
+if not os.path.exists(report_folder_path):
+    os.makedirs(report_folder_path)
 
 bikes_per_day(df)
 bikes_per_ownership_years(df)

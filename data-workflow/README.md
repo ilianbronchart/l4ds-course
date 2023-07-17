@@ -5,10 +5,13 @@ source .env/bin/activate
 pip install -r requirements.txt
 ```
 
-# Requirements
-- `curl`: `sudo apt install curl`
+# Install Requirements
+- `make : sudo apt-get install make`
 
 # Create Crontab
 ```bash
 crontab cron
 ```
+
+# Pages url
+https://ilianbronchart.github.io/l4ds-course/
