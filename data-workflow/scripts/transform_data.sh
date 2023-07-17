@@ -1,10 +1,12 @@
+#!/bin/bash
+
 # Set input and output directories
-input_dir="../data"
-output_dir='../csv'
+input_dir="./data"
+output_dir='./csv'
 
 # Create output directories if they don't exist
-mkdir -p $output_dir/anglo-saxon
-mkdir -p $output_dir/european
+mkdir -p "$output_dir/anglo-saxon"
+mkdir -p "$output_dir/european"
 
 # Function to convert a value to Anglo-saxon format
 function to_anglo {

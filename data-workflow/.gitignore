@@ -1,7 +1,4 @@
 login.sh
-data/
-csv/
-reports/
 .env
 
 # Byte-compiled / optimized / DLL files

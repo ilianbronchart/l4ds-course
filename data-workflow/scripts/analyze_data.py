@@ -6,13 +6,13 @@ import datetime as dt
 import matplotlib.pyplot as plt
 
 now = dt.datetime.now().strftime('%d:%m:%Y-%H:%M:%S')
-report_folder_path = f'../reports/report-{now}'
+report_folder_path = f'./reports/report-{now}'
 
 def prepare_df():
-    csv_files = [f for f in os.listdir('../csv/anglo-saxon/') if f.endswith('.csv')]
+    csv_files = [f for f in os.listdir('./csv/anglo-saxon/') if f.endswith('.csv')]
 
     # Concatenate all CSV files into a single dataframe
-    df = pd.concat([pd.read_csv('../csv/anglo-saxon/' + f) for f in csv_files])
+    df = pd.concat([pd.read_csv('./csv/anglo-saxon/' + f) for f in csv_files])
     df['date_stolen'] = pd.to_datetime(df['date_stolen'], unit='s')
     df['colors'] = df['frame_colors'].str.split(':').apply(tuple)
     df.drop_duplicates(inplace=True)
@@ -104,8 +104,8 @@ def bikes_per_color(df):
 # Call each function and save the resulting charts and maps to files
 df = prepare_df()
 
-if not os.path.exists('../reports'):
-    os.makedirs('../reports')
+if not os.path.exists('./reports'):
+    os.makedirs('./reports')
 
 if not os.path.exists(report_folder_path):
     os.makedirs(report_folder_path)
