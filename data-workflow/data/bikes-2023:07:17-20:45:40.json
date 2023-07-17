@@ -1,33 +1,5 @@
 [
   {
-    "date_stolen": 1689618654,
-    "description": null,
-    "frame_colors": [
-      "Green"
-    ],
-    "frame_model": "Intrigue 29 2",
-    "id": 1557251,
-    "is_stock_img": false,
-    "large_img": null,
-    "location_found": null,
-    "manufacturer_name": "Giant",
-    "external_id": null,
-    "registry_name": null,
-    "registry_url": null,
-    "serial": "G3HA28443",
-    "status": "stolen",
-    "stolen": true,
-    "stolen_coordinates": [
-      37.76,
-      -122.48
-    ],
-    "stolen_location": "San Francisco, CA 94122, US",
-    "thumb": null,
-    "title": "2022 Giant Intrigue 29 2",
-    "url": "https://bikeindex.org/bikes/1557251",
-    "year": 2022
-  },
-  {
     "date_stolen": 1689618464,
     "description": null,
     "frame_colors": [
