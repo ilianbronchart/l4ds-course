@@ -28,5 +28,5 @@ Run `make` for help.
 Run `source .env/bin/activate` to activate the Virtual Environment.
 
 ## Create Crontab
-A crontab file is provided that will run `make run-pipeline` at midnight every day.
-- Activate it using `crontab cron`.
+The following crontab will execute `make run-pipeline` every day at midnight.
+Use `crontab -e` and add `0 12 * * * /path/to/l4ds-course/data-workflow/ make run-pipeline`
