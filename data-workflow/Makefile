@@ -10,7 +10,7 @@ help:
 	@echo "  transform-data  Transform data into CSV format"
 	@echo "  analyze-data    Analyze data and generate report files"
 	@echo "  generate-report Generate report from analyzed data"
-	@echo "  clean           (DANGEROUS) Delete reports, data, csv, docs and .env directories"
+	@echo "  clean           (DANGEROUS) Delete data, csv, reports and docs directories."
 	@echo ""
 
 install:

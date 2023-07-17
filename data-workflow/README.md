@@ -16,20 +16,16 @@ A makefile is provided with the following useful commands:
 - transform-data  Transform data into CSV format
 - analyze-data    Analyze data and generate report files
 - generate-report Generate report from analyzed data
-- clean           (DANGEROUS) Delete data, csv, reports and docs directories
+- clean           (DANGEROUS) Delete data, csv, reports and docs directories. Changes are not pushed to remote.
 
 Run `make` for help.
 
 ## Install
 1. Navigate to project folder: `cd l4ds-course/data-workflow`
 2. Install make: `sudo apt-get install make`
-2. Run `make install` to install some dependencies.
-3. Create and activate VirtualEnvironment:
-```
-python3 -m venv .env
-source .env/bin/activate
-pip install -r requirements.txt
-```
+3. Run `make install` to create a Virtual Environment and install requirements.
+
+Run `source .env/bin/activate` to activate the Virtual Environment.
 
 ## Create Crontab
 A crontab file is provided that will run `make run-pipeline` at midnight every day.
