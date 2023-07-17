@@ -24,6 +24,8 @@ check-venv:
 check-curl:
 	@which curl > /dev/null || (echo "curl is not installed. Installing..." && sudo apt-get update && sudo apt-get install -y curl)
 
+install: check-venv check-curl
+
 fetch-data:
 	./fetch-data.sh
 
@@ -36,7 +38,7 @@ analyze-data:
 generate-report:
 	python generate-report.py
 
-run-pipeline: check-venv check-curl fetch-data transform-data analyze-data generate-report
+run-pipeline: install fetch-data transform-data analyze-data generate-report
 
 clean:
 	@read -p "Are you sure you want to delete the reports, data, csv, and .env directories? [y/N] " confirm; \
