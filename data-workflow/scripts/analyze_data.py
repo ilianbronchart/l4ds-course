@@ -102,6 +102,7 @@ def bikes_per_color(df):
     fig.savefig(f'{report_folder_path}/bikes_per_color.png')
 
 # Call each function and save the resulting charts and maps to files
+print("Analyzing data and generating report files...")
 df = prepare_df()
 
 if not os.path.exists('./reports'):

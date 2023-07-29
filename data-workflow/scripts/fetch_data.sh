@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo "Fetching data from remote..."
+
+aabsc
+cc balangejo
+
 # Set variables
 API_URL="https://bikeindex.org:443/api/v3"
 SEARCH_ENDPOINT="/search"

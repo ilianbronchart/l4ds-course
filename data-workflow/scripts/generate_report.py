@@ -3,6 +3,7 @@ import shutil
 from jinja2 import Environment, FileSystemLoader
 import subprocess
 
+print("Generating report from analyzed data...")
 
 # Set up Jinja2 template environment
 env = Environment(loader=FileSystemLoader('.'))

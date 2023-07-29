@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Transforming data into CSV format...";
+
 # Set input and output directories
 input_dir="./data"
 output_dir='./csv'
