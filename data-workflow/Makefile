@@ -1,7 +1,5 @@
 SHELL := /bin/bash
 LOGFILE := logs/$(shell date +%Y-%m-%d_%H-%M-%S).log
-SENDER := ilianbronchart@protonmail.com
-RECIPIENT := ilianbronchart@protonmail.com
 .PHONY: help
 
 help:
@@ -37,26 +35,26 @@ install:
 pre-pipeline:
 	@mkdir -p data csv reports ../docs logs;
 	@touch $(LOGFILE);
-	@echo "Logfile created @ $(LOGFILE)";
+	@echo "Logfile created @ $(LOGFILE)"; >> $(LOGFILE);
 	@echo "" >> $(LOGFILE);
-	@echo "See result of pipeline @ https://ilianbronchart.github.io/l4ds-course/"
+	@echo "See result of pipeline @ https://ilianbronchart.github.io/l4ds-course/" >> $(LOGFILE);
 
 fetch-data:
-	@./scripts/fetch_data.sh >> $(LOGFILE)
+	@./scripts/fetch_data.sh 2>&1 | tee -a $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 transform-data:
-	@./scripts/transform_data.sh >> $(LOGFILE)
+	@./scripts/transform_data.sh 2>&1 | tee -a $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 analyze-data:
 	@source .env/bin/activate;
-	@python3 scripts/analyze_data.py >> $(LOGFILE)
+	@python3 scripts/analyze_data.py 2>&1 | tee -a $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 generate-report:
 	@source .env/bin/activate;
-	@python3 scripts/generate_report.py >> $(LOGFILE)
+	@python3 scripts/generate_report.py 2>&1 | tee -a $(LOGFILE);
 	@echo "" >> $(LOGFILE);
 
 run-pipeline: pre-pipeline fetch-data transform-data analyze-data generate-report	
@@ -66,9 +64,7 @@ run-pipeline: pre-pipeline fetch-data transform-data analyze-data generate-repor
 	@git commit -m "[AUTOMATIC] Push pipeline result to remote" >> $(LOGFILE);
 	@git push >> $(LOGFILE);
 
-	@echo "" >> $(LOGFILE);
-	@echo "Sending email with logfile..." >> $(LOGFILE);
-	@mail -s "[BikeIndex] Pipeline result" ilianbronchart@gmail.com < $(LOGFILE);
+	@mail -s "[BikeIndex] Pipeline result" $(BIKEINDEX_RECIPIENT) < $(LOGFILE);
 
 clean:
 	@read -p "Are you sure you want to permanently delete the data, csv, reports, logs and docs directories? [y/N] " confirm; \
