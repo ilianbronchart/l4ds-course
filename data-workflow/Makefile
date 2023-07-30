@@ -60,6 +60,7 @@ run-pipeline: fetch-data transform-data analyze-data generate-report
 	@git commit -m "[AUTOMATIC] Push pipeline result to remote" >> $(LOGFILE);
 	@git push >> $(LOGFILE);
 
+	@echo "" >> $(LOGFILE);
 	@echo "Sending email with logfile..." >> $(LOGFILE);
 	@mail -s "[BikeIndex] Pipeline result" ilianbronchart@gmail.com < $(LOGFILE);
 
