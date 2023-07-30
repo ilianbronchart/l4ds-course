@@ -42,21 +42,21 @@ pre-pipeline:
 	@echo "See result of pipeline @ https://ilianbronchart.github.io/l4ds-course/"
 
 fetch-data:
-	@./scripts/fetch_data.sh 2>&1 | tee -a $(LOGFILE)
+	@./scripts/fetch_data.sh >> $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 transform-data:
-	@./scripts/transform_data.sh 2>&1 | tee -a $(LOGFILE)
+	@./scripts/transform_data.sh >> $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 analyze-data:
 	@source .env/bin/activate;
-	@python3 scripts/analyze_data.py 2>&1 | tee -a $(LOGFILE)
+	@python3 scripts/analyze_data.py >> $(LOGFILE)
 	@echo "" >> $(LOGFILE)
 
 generate-report:
 	@source .env/bin/activate;
-	@python3 scripts/generate_report.py 2>&1 | tee -a $(LOGFILE);
+	@python3 scripts/generate_report.py >> $(LOGFILE)
 	@echo "" >> $(LOGFILE);
 
 run-pipeline: pre-pipeline fetch-data transform-data analyze-data generate-report	
