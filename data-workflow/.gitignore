@@ -1,5 +1,8 @@
 login.sh
 .env
+csv/
+logs/
+reports/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
