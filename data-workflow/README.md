@@ -10,13 +10,13 @@ This projects contains a data pipeline which will automatically execute the foll
 
 ## Makefile
 A makefile is provided with the following useful commands:
-- install         Install dependencies
-- run-pipeline    Run the entire pipeline from start to finish.
-- fetch-data      Fetch data from remote server
-- transform-data  Transform data into CSV format
-- analyze-data    Analyze data and generate report files
-- generate-report Generate report from analyzed data
-- clean           (DANGEROUS) Delete data, csv, reports and docs directories. Changes are not pushed to remote.
+- `install`:         Install dependencies
+- `run-pipeline`:    Run the entire pipeline from start to finish.
+- `fetch-data`:      Fetch data from remote server
+- `transform-data`:  Transform data into CSV format
+- `analyze-data`:    Analyze data and generate report files
+- `generate-report`: Generate report from analyzed data
+- `clean`:           (DANGEROUS) Delete data, csv, reports and docs directories. Changes are not pushed to remote.
 
 Run `make` for help.
 
