@@ -35,6 +35,13 @@ install:
 	@echo "Activating virtual environment and installing Python dependencies...";
 	@. .env/bin/activate && pip install -r requirements.txt;
 	
+make-logfile:
+	@mkdir -p logs;
+	@touch $(LOGFILE);
+	@echo "Logfile created @ $(LOGFILE)";
+	@echo "" >> $(LOGFILE);
+	@echo "See result of pipeline @ https://ilianbronchart.github.io/l4ds-course/"
+
 fetch-data:
 	@./scripts/fetch_data.sh 2>&1 | tee -a $(LOGFILE)
 	@echo "" >> $(LOGFILE)
@@ -53,7 +60,7 @@ generate-report:
 	@python3 scripts/generate_report.py 2>&1 | tee -a $(LOGFILE);
 	@echo "" >> $(LOGFILE);
 
-run-pipeline: fetch-data transform-data analyze-data generate-report	
+run-pipeline: make-logfile fetch-data transform-data analyze-data generate-report	
 	@echo "Pushing pipeline result to remote..." >> $(LOGFILE);
 	@git pull >> $(LOGFILE);
 	@git add ../docs data >> $(LOGFILE);
