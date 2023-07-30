@@ -56,7 +56,7 @@ generate-report:
 run-pipeline: fetch-data transform-data analyze-data generate-report	
 	@echo "Pushing pipeline result to remote..." >> $(LOGFILE);
 	@git pull >> $(LOGFILE);
-	@git add ../docs data csv reports >> $(LOGFILE);
+	@git add ../docs data >> $(LOGFILE);
 	@git commit -m "[AUTOMATIC] Push pipeline result to remote" >> $(LOGFILE);
 	@git push >> $(LOGFILE);
 
