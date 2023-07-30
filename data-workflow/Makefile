@@ -61,7 +61,7 @@ run-pipeline: fetch-data transform-data analyze-data generate-report
 	@git push >> $(LOGFILE);
 
 	@echo "Sending email with logfile..." >> $(LOGFILE);
-	@mail -s "[BikeIndex] Pipeline result on $(date +%Y-%m-%d_%H-%M-%S)" ilianbronchart@gmail.com -A $(LOGFILE) </dev/null;
+	@mail -s "[BikeIndex] Pipeline result" ilianbronchart@gmail.com < $(LOGFILE);
 
 clean:
 	@read -p "Are you sure you want to permanently delete the data, csv, reports, logs and docs directories? [y/N] " confirm; \
