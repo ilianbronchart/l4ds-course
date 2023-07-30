@@ -25,7 +25,6 @@ install:
 	@which virtualenv > /dev/null || (echo "virtualenv is not installed. Installing..." && sudo apt install -y python3-virtualenv);
 
 	@echo "Creating necessary directories..."
-	@mkdir -p data csv reports ../docs logs;
 
 	@if [ ! -d ".env" ]; then \
 		echo "Virtual environment not found. Creating..."; \
@@ -35,8 +34,8 @@ install:
 	@echo "Activating virtual environment and installing Python dependencies...";
 	@. .env/bin/activate && pip install -r requirements.txt;
 	
-make-logfile:
-	@mkdir -p logs;
+pre-pipeline:
+	@mkdir -p data csv reports ../docs logs;
 	@touch $(LOGFILE);
 	@echo "Logfile created @ $(LOGFILE)";
 	@echo "" >> $(LOGFILE);
@@ -60,7 +59,7 @@ generate-report:
 	@python3 scripts/generate_report.py 2>&1 | tee -a $(LOGFILE);
 	@echo "" >> $(LOGFILE);
 
-run-pipeline: make-logfile fetch-data transform-data analyze-data generate-report	
+run-pipeline: pre-pipeline fetch-data transform-data analyze-data generate-report	
 	@echo "Pushing pipeline result to remote..." >> $(LOGFILE);
 	@git pull >> $(LOGFILE);
 	@git add ../docs data >> $(LOGFILE);
