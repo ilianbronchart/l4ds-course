@@ -1,0 +1,501 @@
+[
+  {
+    "date_stolen": 1691352000,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "A Frame",
+    "id": 1570130,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731201/large_IMG_4494.jpg",
+    "location_found": null,
+    "manufacturer_name": "Bird",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SNBAM21J09459",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.88,
+      -87.63
+    ],
+    "stolen_location": "Chicago, IL 99755, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731201/small_IMG_4494.jpg",
+    "title": "Bird A Frame",
+    "url": "https://bikeindex.org/bikes/1570130",
+    "year": null
+  },
+  {
+    "date_stolen": 1691301602,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Fuel EX 7",
+    "id": 1570148,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU243g0276N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.04,
+      -123.23
+    ],
+    "stolen_location": "Eugene, OR 97402, US",
+    "thumb": null,
+    "title": "2019 Trek Fuel EX 7",
+    "url": "https://bikeindex.org/bikes/1570148",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1691299150,
+    "description": "2009 Pitch frame, M4 Manipulated Alloy tubing, double ORE downtube, DMD front derailleur mount, sealed cartridge bearing pivots, replaceable hanger, bolt on cable guides, 150mm travel",
+    "frame_colors": [
+      "Black",
+      "White"
+    ],
+    "frame_model": "Pitch Comp",
+    "id": 740340,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/249971/large_52F38646-E0D3-4A48-8A80-FF483C4D0649.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "M8HK34011",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/249971/small_52F38646-E0D3-4A48-8A80-FF483C4D0649.jpeg",
+    "title": "2009 Specialized Pitch Comp",
+    "url": "https://bikeindex.org/bikes/740340",
+    "year": 2009
+  },
+  {
+    "date_stolen": 1691298000,
+    "description": "It's blak the Kona ritting  is bright ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1519399,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731205/large_Screenshot_20230805_234827_Chrome.jpg",
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "in2230",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.04,
+      -114.07
+    ],
+    "stolen_location": "Calgary, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731205/small_Screenshot_20230805_234827_Chrome.jpg",
+    "title": "2023 Kona",
+    "url": "https://bikeindex.org/bikes/1519399",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1691297700,
+    "description": null,
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "24 Rock Creek",
+    "id": 1570125,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Huffy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "579134963",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.88,
+      -117.9
+    ],
+    "stolen_location": "Fullerton, CA 92831, US",
+    "thumb": null,
+    "title": "2023 Huffy 24 Rock Creek",
+    "url": "https://bikeindex.org/bikes/1570125",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1691294808,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Sirrus 4.0",
+    "id": 1570085,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731177/large_4E79316F-470D-478A-B808-FAC2770CE908.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.03,
+      -118.5
+    ],
+    "stolen_location": "Santa Monica, CA 90403, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731177/small_4E79316F-470D-478A-B808-FAC2770CE908.jpeg",
+    "title": "2021 Specialized Sirrus 4.0",
+    "url": "https://bikeindex.org/bikes/1570085",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1691287200,
+    "description": "It had a rip on back part if the seat, and it had a metal cup holder attached to it. ",
+    "frame_colors": [
+      "Red",
+      "White"
+    ],
+    "frame_model": "Alite 300",
+    "id": 1570052,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731163/large_Screenshot_20230731_230603_Facebook.jpg",
+    "location_found": null,
+    "manufacturer_name": "KHS Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.58,
+      -117.12
+    ],
+    "stolen_location": "Imperial Beach, CA 91932, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731163/small_Screenshot_20230731_230603_Facebook.jpg",
+    "title": "KHS Bicycles Alite 300",
+    "url": "https://bikeindex.org/bikes/1570052",
+    "year": null
+  },
+  {
+    "date_stolen": 1691284240,
+    "description": "Electric bike with kendall 26 inch tires forks have mozo stickers on them ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Volt bike Yukon 7",
+    "id": 1557434,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731142/large_20230717_153657.jpg",
+    "location_found": null,
+    "manufacturer_name": "Volt Bike",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "FR26FLD0200027",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731142/small_20230717_153657.jpg",
+    "title": "Volt Bike Volt bike Yukon 7",
+    "url": "https://bikeindex.org/bikes/1557434",
+    "year": null
+  },
+  {
+    "date_stolen": 1691280000,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "15\" low",
+    "id": 1570013,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Nishiki",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "EZ200405058",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.44,
+      -76.5
+    ],
+    "stolen_location": "Ithaca, NY 14850, US",
+    "thumb": null,
+    "title": "2022 Nishiki 15\" low",
+    "url": "https://bikeindex.org/bikes/1570013",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1691273689,
+    "description": "Red and black frame can only take 26-in wheels",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "8500",
+    "id": 1213083,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Manitou",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU350T073V trek",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": null,
+    "title": "Manitou 8500",
+    "url": "https://bikeindex.org/bikes/1213083",
+    "year": null
+  },
+  {
+    "date_stolen": 1691268152,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Sirrus x4",
+    "id": 1569868,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Wsbc024050914t",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.72,
+      -84.34
+    ],
+    "stolen_location": "Atlanta, GA 30316, US",
+    "thumb": null,
+    "title": "2022 Specialized Sirrus x4",
+    "url": "https://bikeindex.org/bikes/1569868",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1691265886,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "cube reaction hybrid pro 625 allroad desert'n'orange",
+    "id": 1569835,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Cube",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "58475-354-WOW72693PVKT",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      50.13,
+      9.54
+    ],
+    "stolen_location": "Fellen, 97778, DE",
+    "thumb": null,
+    "title": "Cube cube reaction hybrid pro 625 allroad ...",
+    "url": "https://bikeindex.org/bikes/1569835",
+    "year": null
+  },
+  {
+    "date_stolen": 1691265600,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Rad runner 2",
+    "id": 1569847,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2H21V5358",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      49.7,
+      -123.16
+    ],
+    "stolen_location": "Squamish, V0N 1T0, CA",
+    "thumb": null,
+    "title": "2023 Rad Power Bikes Rad runner 2",
+    "url": "https://bikeindex.org/bikes/1569847",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1691251200,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Haul-a-day",
+    "id": 1569745,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/731032/large_Superbike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Bike Friday",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.72,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98125, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/731032/small_Superbike.jpg",
+    "title": "Bike Friday Haul-a-day",
+    "url": "https://bikeindex.org/bikes/1569745",
+    "year": null
+  },
+  {
+    "date_stolen": 1691247600,
+    "description": "",
+    "frame_colors": [
+      "White",
+      "Blue"
+    ],
+    "frame_model": "Step thru 2.0",
+    "id": 1211088,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/510296/large_image.jpg",
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "211010004",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.25,
+      -104.61
+    ],
+    "stolen_location": "Pueblo, CO 81004, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/510296/small_image.jpg",
+    "title": "2021 Lectric eBikes Step thru 2.0",
+    "url": "https://bikeindex.org/bikes/1211088",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1691244000,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Marlin 8 XL 29",
+    "id": 1569660,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/730887/large_marlin.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU170C0242S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.27,
+      -96.05
+    ],
+    "stolen_location": "Omaha, NE 68114, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/730887/small_marlin.jpg",
+    "title": "2023 Trek Marlin 8 XL 29",
+    "url": "https://bikeindex.org/bikes/1569660",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1691244000,
+    "description": "Extra large seat  had a cover on it which was also taken  ",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Meridian 26 Single Speed",
+    "id": 1569651,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/730878/large_IMG_0911_1_.JPG",
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "6585716227",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.45,
+      -113.52
+    ],
+    "stolen_location": "Edmonton, T6J 4T7, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/730878/small_IMG_0911_1_.JPG",
+    "title": "Schwinn Meridian 26 Single Speed tricycle",
+    "url": "https://bikeindex.org/bikes/1569651",
+    "year": null
+  },
+  {
+    "date_stolen": 1691239796,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Purple"
+    ],
+    "frame_model": "Maniaac Flyer",
+    "id": 1569611,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/730803/large_IMG_5003.jpeg",
+    "location_found": null,
+    "manufacturer_name": "SE Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WBD252LOO49T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.72,
+      -73.65
+    ],
+    "stolen_location": "Garden City, NY 11530, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/730803/small_IMG_5003.jpeg",
+    "title": "2023 SE Bikes Maniaac Flyer",
+    "url": "https://bikeindex.org/bikes/1569611",
+    "year": 2023
+  }
+]
