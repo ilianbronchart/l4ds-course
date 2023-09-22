@@ -1,0 +1,787 @@
+[
+  {
+    "date_stolen": 1695363274,
+    "description": null,
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Cty 1.1  XS",
+    "id": 1667241,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750297/large_IMG_9800.jpeg",
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "L20052451",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.74,
+      -122.34
+    ],
+    "stolen_location": "Shoreline, WA 98133, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750297/small_IMG_9800.jpeg",
+    "title": "REI Co-op Cty 1.1 XS",
+    "url": "https://bikeindex.org/bikes/1667241",
+    "year": null
+  },
+  {
+    "date_stolen": 1695360665,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Xclass",
+    "id": 1667233,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Ariel rider x class 52v",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "23440826378",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.15,
+      -117.47
+    ],
+    "stolen_location": "Fontana, CA 92336, US",
+    "thumb": null,
+    "title": "2022 Ariel rider x class 52v Xclass",
+    "url": "https://bikeindex.org/bikes/1667233",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695358800,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Xclass",
+    "id": 1667234,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750294/large_IMG_20220515_195911_613.jpg",
+    "location_found": null,
+    "manufacturer_name": "Ariel rider x class 52v",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "23440826378",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.15,
+      -117.51
+    ],
+    "stolen_location": "Rancho Cucamonga, CA 91739, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750294/small_IMG_20220515_195911_613.jpg",
+    "title": "2022 Ariel rider x class 52v Xclass",
+    "url": "https://bikeindex.org/bikes/1667234",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695351681,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "VADO SL 4.0 TOP TUBE CL3 EQ 21",
+    "id": 1667135,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750252/large_IMG_6227.png",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC025004683S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.74,
+      -117.12
+    ],
+    "stolen_location": "San Diego, CA 92104, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750252/small_IMG_6227.png",
+    "title": "2021 Specialized VADO SL 4.0 TOP TUBE CL3 EQ 21",
+    "url": "https://bikeindex.org/bikes/1667135",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695338498,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "VITUS+",
+    "id": 1666994,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Vitus",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "E077624",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95618, US",
+    "thumb": null,
+    "title": "Vitus VITUS+",
+    "url": "https://bikeindex.org/bikes/1666994",
+    "year": null
+  },
+  {
+    "date_stolen": 1695337200,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": " Frame  Specialized A1 Premium Aluminum, Fitness Geometry, Butted tubing, Internal Cable Routing, V-Brake, Quick-Release, Plug + Play rack/fender mounts",
+    "id": 1666995,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750197/large_90922-92_SIRRUS-10-BLK-CHAR-BLKREFL_HERO.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC011154895S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.06,
+      -123.08
+    ],
+    "stolen_location": "Eugene, OR 97401, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750197/small_90922-92_SIRRUS-10-BLK-CHAR-BLKREFL_HERO.jpeg",
+    "title": "2023 Specialized Frame Specialized A1 Premium Alumin...",
+    "url": "https://bikeindex.org/bikes/1666995",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695337200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Roubaix Comp 18",
+    "id": 1666998,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "STB14A037",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95618, US",
+    "thumb": null,
+    "title": "Specialized Roubaix Comp 18",
+    "url": "https://bikeindex.org/bikes/1666998",
+    "year": null
+  },
+  {
+    "date_stolen": 1695333600,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "L ",
+    "id": 1666967,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750189/large_IMG_0288.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Ironhorse Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.49,
+      -98.4
+    ],
+    "stolen_location": "San Antonio, TX 78218, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750189/small_IMG_0288.jpeg",
+    "title": "2017 Ironhorse Bicycles L",
+    "url": "https://bikeindex.org/bikes/1666967",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1695333600,
+    "description": "Teal and orange custom pain, \"20/20 Cycle painted all over frame.  Main oversize tube says \"carbon neutral vehicle\" on either side",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "cargo bike- 20/20 Cycle logo custom paint ",
+    "id": 1667035,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750209/large_Screen_Shot_2023-09-21_at_4.59.12_PM.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Bilenky Cycle Works",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "probably 001- will update",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98122, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750209/small_Screen_Shot_2023-09-21_at_4.59.12_PM.jpeg",
+    "title": "2007 Bilenky Cycle Works cargo bike- 20/20 Cycle logo custom p... cargo bike (front storage)",
+    "url": "https://bikeindex.org/bikes/1667035",
+    "year": 2007
+  },
+  {
+    "date_stolen": 1695333600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "ALIGHT 2 DD CITY DISC XS",
+    "id": 1321379,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Liv",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "P7GP01637",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.8,
+      -87.6
+    ],
+    "stolen_location": "Chicago, IL 60615, US",
+    "thumb": null,
+    "title": "2021 Liv ALIGHT 2 DD CITY DISC XS",
+    "url": "https://bikeindex.org/bikes/1321379",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695330000,
+    "description": "Kris Kore headset gt sprocket mazzaratti shocks click in pedals",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Paramount Series 70",
+    "id": 1666975,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.88,
+      -122.03
+    ],
+    "stolen_location": "Walnut Creek, CA 94596, US",
+    "thumb": null,
+    "title": "1982 Schwinn Paramount Series 70",
+    "url": "https://bikeindex.org/bikes/1666975",
+    "year": 1982
+  },
+  {
+    "date_stolen": 1695330000,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "CrossRip Comp",
+    "id": 1667126,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750246/large_IMG_0002.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU352C3078K",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.49,
+      -113.49
+    ],
+    "stolen_location": "Edmonton, T6H 2H5, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750246/small_IMG_0002.jpeg",
+    "title": "2017 Trek CrossRip Comp",
+    "url": "https://bikeindex.org/bikes/1667126",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1695327110,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Radrunner 1",
+    "id": 1666710,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR1G20V0092",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.68,
+      -74.01
+    ],
+    "stolen_location": "Brooklyn, NY 11231, US",
+    "thumb": null,
+    "title": "2020 Rad Power Bikes Radrunner 1",
+    "url": "https://bikeindex.org/bikes/1666710",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1695326400,
+    "description": "",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Larkspur CS2 20.5” ",
+    "id": 1494461,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750134/large_IMG_4785.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Marin Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "041931189",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.35,
+      -71.08
+    ],
+    "stolen_location": "Boston, MA 02116, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750134/small_IMG_4785.jpeg",
+    "title": "2019 Marin Bikes Larkspur CS2 20.5”",
+    "url": "https://bikeindex.org/bikes/1494461",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1695322781,
+    "description": "Black Trek Fuel Ex 8 \r\npurple flat One up pedals \r\nTan grips \r\nsicker on frame that says ( think less send more)\r\nBrand New Maxxis tires ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Fuel Ex 8",
+    "id": 1666559,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU288Q0227N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.04,
+      -114.13
+    ],
+    "stolen_location": "Calgary, T3E 2M8, CA",
+    "thumb": null,
+    "title": "2019 Trek Fuel Ex 8",
+    "url": "https://bikeindex.org/bikes/1666559",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1695319200,
+    "description": "male youth bike",
+    "frame_colors": [
+      "Blue",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Metro",
+    "id": 1643952,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Novara",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.66,
+      -91.53
+    ],
+    "stolen_location": "Iowa City, IA 52240, US",
+    "thumb": null,
+    "title": "Novara Metro",
+    "url": "https://bikeindex.org/bikes/1643952",
+    "year": null
+  },
+  {
+    "date_stolen": 1695317400,
+    "description": "",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "",
+    "id": 1666815,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750151/large_IMG_1086.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Huffy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "56760 15110E",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      31.46,
+      -97.07
+    ],
+    "stolen_location": "Waco, TX 76706, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750151/small_IMG_1086.jpeg",
+    "title": "Huffy",
+    "url": "https://bikeindex.org/bikes/1666815",
+    "year": null
+  },
+  {
+    "date_stolen": 1695315840,
+    "description": null,
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Sduro Hardfour 4.0",
+    "id": 1666333,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750032/large_Haibike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Haibike",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.48,
+      -113.59
+    ],
+    "stolen_location": "Edmonton, T6R 1C1, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750032/small_Haibike.jpg",
+    "title": "2018 Haibike Sduro Hardfour 4.0",
+    "url": "https://bikeindex.org/bikes/1666333",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1695315600,
+    "description": "Santa Cruz 5010C R1x-Kit build with a red frame and teal lettering, Maxxis front & rear tires, Crankbrothers dropper post, teal handlebar grips",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "5010C",
+    "id": 1666269,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750019/large_IMG_1810.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Santa Cruz",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "PS1703P-10494C",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.74,
+      -105.03
+    ],
+    "stolen_location": "Denver, CO 80204, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750019/small_IMG_1810.jpeg",
+    "title": "2017 Santa Cruz 5010C",
+    "url": "https://bikeindex.org/bikes/1666269",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1695315187,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Rockhopper",
+    "id": 1666277,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750016/large_IMG_20230706_131850_892.jpg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.9,
+      -87.63
+    ],
+    "stolen_location": "Chicago, IL 60610, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750016/small_IMG_20230706_131850_892.jpg",
+    "title": "1991 Specialized Rockhopper",
+    "url": "https://bikeindex.org/bikes/1666277",
+    "year": 1991
+  },
+  {
+    "date_stolen": 1695312000,
+    "description": "grey blue writting",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "pleasure",
+    "id": 1646397,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Wtu342c3169n",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.39,
+      -122.08
+    ],
+    "stolen_location": "Mountain View, CA 94041, US",
+    "thumb": null,
+    "title": "Trek pleasure",
+    "url": "https://bikeindex.org/bikes/1646397",
+    "year": null
+  },
+  {
+    "date_stolen": 1695308400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "unknown",
+    "id": 1666184,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/749965/large_IMG_0596.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "TEMP189047",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.33
+    ],
+    "stolen_location": "Seattle, WA, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/749965/small_IMG_0596.jpeg",
+    "title": "2023 Specialized unknown",
+    "url": "https://bikeindex.org/bikes/1666184",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695308140,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Drago 27.5 multispeed",
+    "id": 1666178,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Ninety One",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Y22M73042",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      23.18,
+      75.77
+    ],
+    "stolen_location": "Ujjain, 456001, IN",
+    "thumb": null,
+    "title": "2023 Ninety One Drago 27.5 multispeed",
+    "url": "https://bikeindex.org/bikes/1666178",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695307410,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Fiber",
+    "id": 1666169,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hero Cycles Ltd",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      15.67,
+      78.09
+    ],
+    "stolen_location": "Kurnool, 518002, IN",
+    "thumb": null,
+    "title": "2013 Hero Cycles Ltd Fiber",
+    "url": "https://bikeindex.org/bikes/1666169",
+    "year": 2013
+  },
+  {
+    "date_stolen": 1695305608,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Allante",
+    "id": 1666157,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU193C6046S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.48,
+      -82.01
+    ],
+    "stolen_location": "Augusta, GA 30904, US",
+    "thumb": null,
+    "title": "2022 Trek Allante",
+    "url": "https://bikeindex.org/bikes/1666157",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695304800,
+    "description": "",
+    "frame_colors": [
+      "Brown"
+    ],
+    "frame_model": "",
+    "id": 1666166,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Merida Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      -33.95,
+      150.87
+    ],
+    "stolen_location": "Prestons, 2170, AU",
+    "thumb": null,
+    "title": "2021 Merida Bikes",
+    "url": "https://bikeindex.org/bikes/1666166",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695302812,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Gyrocopter Moxie",
+    "id": 1666122,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Gyrocopter Moxie",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "27322305090687",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.98,
+      -79.24
+    ],
+    "stolen_location": "Welland, L3B 5S7, CA",
+    "thumb": null,
+    "title": "2023 Gyrocopter Moxie Gyrocopter Moxie e-skateboard (e-unicycle, personal mobility device, etc)",
+    "url": "https://bikeindex.org/bikes/1666122",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695301200,
+    "description": "Has a rack on the back",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Detour City Sport",
+    "id": 1666248,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/750010/large_D3476B24-2FEF-4C36-BF76-0C1DC02E34BF.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "U117K28111",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.98,
+      -93.22
+    ],
+    "stolen_location": "Minneapolis, MN 55414, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/750010/small_D3476B24-2FEF-4C36-BF76-0C1DC02E34BF.jpeg",
+    "title": "2013 Raleigh Detour City Sport",
+    "url": "https://bikeindex.org/bikes/1666248",
+    "year": 2013
+  }
+]
