@@ -1,0 +1,840 @@
+[
+  {
+    "date_stolen": 1695967200,
+    "description": null,
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "unknown, 2000 mtb frame",
+    "id": 1672393,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "h7gr02580",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.68,
+      -111.04
+    ],
+    "stolen_location": "Bozeman, MT 59715, US",
+    "thumb": null,
+    "title": "2023 Kona unknown, 2000 mtb frame",
+    "url": "https://bikeindex.org/bikes/1672393",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695965813,
+    "description": null,
+    "frame_colors": [
+      "Red",
+      "Black"
+    ],
+    "frame_model": "Bmx ",
+    "id": 1672368,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "BCA",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.46,
+      -121.43
+    ],
+    "stolen_location": "Sacramento, CA 95823, US",
+    "thumb": null,
+    "title": "BCA Bmx",
+    "url": "https://bikeindex.org/bikes/1672368",
+    "year": null
+  },
+  {
+    "date_stolen": 1695961036,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "S3",
+    "id": 1672354,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "VanMoof",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "ASY3154322",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.34
+    ],
+    "stolen_location": "Seattle, WA 98101, US",
+    "thumb": null,
+    "title": "2021 VanMoof S3",
+    "url": "https://bikeindex.org/bikes/1672354",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695958499,
+    "description": "New turquoise bike. Small low entry. Bike has 1 rear basket, pink bell, rear taillight, water bottle holder.",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Low Entry",
+    "id": 1659844,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/746771/large_PattiBike9-23.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC029058454T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/746771/small_PattiBike9-23.jpeg",
+    "title": "2022 Specialized Low Entry",
+    "url": "https://bikeindex.org/bikes/1659844",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695953696,
+    "description": null,
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Roll 2.0 LowEntry Sm Dusty Turquoise",
+    "id": 1672276,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752985/large_PattiBike9-23.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC029058454T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752985/small_PattiBike9-23.jpeg",
+    "title": "2023 Specialized Roll 2.0 LowEntry Sm Dusty Turquoise",
+    "url": "https://bikeindex.org/bikes/1672276",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695945600,
+    "description": "Fleet",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Fleet",
+    "id": 1350450,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752981/large_IMG_7744.png",
+    "location_found": null,
+    "manufacturer_name": "SWFT",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "E02210802897",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.75,
+      -105
+    ],
+    "stolen_location": "Denver, CO 80202, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752981/small_IMG_7744.png",
+    "title": "SWFT Fleet",
+    "url": "https://bikeindex.org/bikes/1350450",
+    "year": null
+  },
+  {
+    "date_stolen": 1695944863,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "m880",
+    "id": 1672208,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Radio Flyer",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "f880k212551401",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.71,
+      -111.85
+    ],
+    "stolen_location": "Salt Lake City, UT 84106, US",
+    "thumb": null,
+    "title": "2022 Radio Flyer m880",
+    "url": "https://bikeindex.org/bikes/1672208",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695944863,
+    "description": "Flyer M880 E-Bike with rear storage compartment and frame bag with bike lock and bungee inside. Has a quadlock mount on the handlebars.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "m880",
+    "id": 1672211,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752932/large_flyer-m880-black-model-880-shop_1_2.jpg",
+    "location_found": null,
+    "manufacturer_name": "Radio Flyer",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "f880k212551401",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.71,
+      -111.85
+    ],
+    "stolen_location": "Salt Lake City, UT 84106, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752932/small_flyer-m880-black-model-880-shop_1_2.jpg",
+    "title": "2023 Radio Flyer m880",
+    "url": "https://bikeindex.org/bikes/1672211",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695942000,
+    "description": "Cannondale Hardtail with a dropper post, tan/gumwall tires, and a bikepacking style handlebar extender out front",
+    "frame_colors": [
+      "Black",
+      "Green"
+    ],
+    "frame_model": "Trail SE2 ",
+    "id": 1672284,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752989/large_Screen_Shot_2023-09-28_at_8.07.37_PM.png",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.77,
+      -105.01
+    ],
+    "stolen_location": "Denver, CO 80211, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752989/small_Screen_Shot_2023-09-28_at_8.07.37_PM.png",
+    "title": "2021 Cannondale Trail SE2",
+    "url": "https://bikeindex.org/bikes/1672284",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695937983,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Storm",
+    "id": 1672126,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "18844-1 44ncx",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.49,
+      -113.52
+    ],
+    "stolen_location": "Edmonton, T6H 3M1, CA",
+    "thumb": null,
+    "title": "Norco Bikes Storm",
+    "url": "https://bikeindex.org/bikes/1672126",
+    "year": null
+  },
+  {
+    "date_stolen": 1695937819,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "FS KATO 5",
+    "id": 1672123,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752889/large_mzGHOTSBIKE.JPG",
+    "location_found": null,
+    "manufacturer_name": "Ghost",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WCR105419194J",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.15,
+      -114.05
+    ],
+    "stolen_location": "Calgary, T3K 3Y8, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752889/small_mzGHOTSBIKE.JPG",
+    "title": "2015 Ghost FS KATO 5",
+    "url": "https://bikeindex.org/bikes/1672123",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1695934800,
+    "description": "FX Alpha Silver Aluminum",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "7.1 FX",
+    "id": 1672098,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.04,
+      -114.08
+    ],
+    "stolen_location": "Calgary, T2R 0S3, CA",
+    "thumb": null,
+    "title": "2013 Trek 7.1 FX",
+    "url": "https://bikeindex.org/bikes/1672098",
+    "year": 2013
+  },
+  {
+    "date_stolen": 1695934800,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Process 153",
+    "id": 1672086,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752870/large_RenderedImage.jpg",
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "H2JH07146",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.88,
+      -105.04
+    ],
+    "stolen_location": "Westminster, CO 80031, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752870/small_RenderedImage.jpg",
+    "title": "2022 Kona Process 153",
+    "url": "https://bikeindex.org/bikes/1672086",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695934800,
+    "description": "Silver Shimano 105 groupset, Leather Brooks saddle, Velo Orange silver hammered fenders, blue spoke nipples, silver campeur rear rack, silver randonneur front rack (not shown in pic), Thule seatpost adapter for child bike seat (not shown in pic), light brown bar tape (slightly differs from pic), black randonneur bag (not shown in pic)",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Space Horse",
+    "id": 1672094,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752872/large_2015-06-03_22.41.14.jpg",
+    "location_found": null,
+    "manufacturer_name": "All City",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "M13090405",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.98,
+      -93.27
+    ],
+    "stolen_location": "Minneapolis, MN 55401, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752872/small_2015-06-03_22.41.14.jpg",
+    "title": "2016 All City Space Horse",
+    "url": "https://bikeindex.org/bikes/1672094",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1695934800,
+    "description": "",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Habit HT 3",
+    "id": 1644465,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.02,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO 80310, US",
+    "thumb": null,
+    "title": "Cannondale Habit HT 3",
+    "url": "https://bikeindex.org/bikes/1644465",
+    "year": null
+  },
+  {
+    "date_stolen": 1695933309,
+    "description": "Batch # begins with 220 (or 221)",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Woom 5",
+    "id": 1672063,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Woom",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.66,
+      -122.27
+    ],
+    "stolen_location": "Seattle, WA 98105, US",
+    "thumb": null,
+    "title": "2022 Woom Woom 5",
+    "url": "https://bikeindex.org/bikes/1672063",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695931200,
+    "description": "Has a rack with text: R. & MTB RACK BOR YUEH on it. Has 3 x 7 gears. Serial number along with a Made In Taiwan text is on the head tube.",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "montaña pro",
+    "id": 1163740,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "KHS Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "U81103912",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "KHS Bicycles montaña pro",
+    "url": "https://bikeindex.org/bikes/1163740",
+    "year": null
+  },
+  {
+    "date_stolen": 1695931200,
+    "description": "It was with a bell at the front and a basket at the back.",
+    "frame_colors": [
+      "Black",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Escape 3",
+    "id": 1672184,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752963/large_20230928212631.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "KCGK88091",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.35,
+      -71.1
+    ],
+    "stolen_location": "Boston, MA 02215, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752963/small_20230928212631.png",
+    "title": "2023 Giant Escape 3",
+    "url": "https://bikeindex.org/bikes/1672184",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695927668,
+    "description": null,
+    "frame_colors": [
+      "Blue",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "FX 3",
+    "id": 1671996,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU141XC0142T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.67,
+      -122.12
+    ],
+    "stolen_location": "Redmond, WA 98052, US",
+    "thumb": null,
+    "title": "2022 Trek FX 3",
+    "url": "https://bikeindex.org/bikes/1671996",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695927600,
+    "description": "Alpha Silver Aluminum w/externally relieved head tube, bi-axial down tube, disc compatible dropouts, replaceable derailleur hanger",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "3500 Disc",
+    "id": 1672010,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752801/large_IMG_0422.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU176C5871G",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.05,
+      -85.3
+    ],
+    "stolen_location": "Chattanooga, TN 37403, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752801/small_IMG_0422.jpeg",
+    "title": "2012 Trek 3500 Disc",
+    "url": "https://bikeindex.org/bikes/1672010",
+    "year": 2012
+  },
+  {
+    "date_stolen": 1695924000,
+    "description": "Dark Blue ",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Talon 2 S Eclipse 21",
+    "id": 1671984,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K26K09612",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.48,
+      -113.52
+    ],
+    "stolen_location": "Edmonton, T6J 0X8, CA",
+    "thumb": null,
+    "title": "2021 Giant Talon 2 S Eclipse 21",
+    "url": "https://bikeindex.org/bikes/1671984",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1695920039,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": null,
+    "id": 1671900,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "vr2j21v8149",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.16,
+      -117.29
+    ],
+    "stolen_location": "Carlsbad, CA 92010, US",
+    "thumb": null,
+    "title": "2023 Rad Power Bikes",
+    "url": "https://bikeindex.org/bikes/1671900",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695917271,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Swift Lite 3 Step Thru",
+    "id": 1671866,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Biktrix",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JFR05C22070169",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.48,
+      -113.42
+    ],
+    "stolen_location": "Edmonton, T6L 1W6, CA",
+    "thumb": null,
+    "title": "2023 Biktrix Swift Lite 3 Step Thru",
+    "url": "https://bikeindex.org/bikes/1671866",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695916800,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1670492,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752741/large_05AF0A79-A3D9-4A19-A194-D930FE7C0AEA.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "XD90818164",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752741/small_05AF0A79-A3D9-4A19-A194-D930FE7C0AEA.jpeg",
+    "title": "Other",
+    "url": "https://bikeindex.org/bikes/1670492",
+    "year": null
+  },
+  {
+    "date_stolen": 1695916800,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Swift Lite 3 Step Thru",
+    "id": 1671875,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Biktrix",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JFR09C22070245",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.48,
+      -113.42
+    ],
+    "stolen_location": "Edmonton, T6L 1W6, CA",
+    "thumb": null,
+    "title": "2023 Biktrix Swift Lite 3 Step Thru",
+    "url": "https://bikeindex.org/bikes/1671875",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695916800,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Swift Lite 3 Step Thru",
+    "id": 1671890,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Biktrix",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JFR09C22070245",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.48,
+      -113.42
+    ],
+    "stolen_location": "Edmonton, T6L 1W6, CA",
+    "thumb": null,
+    "title": "2023 Biktrix Swift Lite 3 Step Thru",
+    "url": "https://bikeindex.org/bikes/1671890",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1695916800,
+    "description": "",
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "Fuel EX 8",
+    "id": 1671886,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752832/large_ImaButte.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU325G0244P",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.7,
+      -105.04
+    ],
+    "stolen_location": "Denver, CO 80219, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752832/small_ImaButte.jpg",
+    "title": "2020 Trek Fuel EX 8",
+    "url": "https://bikeindex.org/bikes/1671886",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1695912585,
+    "description": "Newer slick frame light Black with white lettering.  ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Boss three disc",
+    "id": 1643788,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/737596/large_image.jpg",
+    "location_found": null,
+    "manufacturer_name": "Infinity Cycle Works",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JK213101417",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/737596/small_image.jpg",
+    "title": "2022 Infinity Cycle Works Boss three disc",
+    "url": "https://bikeindex.org/bikes/1643788",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1695909600,
+    "description": "pink and has a few stickers and a black basket in the front. schwinn cruiser seat. ",
+    "frame_colors": [
+      "Pink"
+    ],
+    "frame_model": "Kruizer",
+    "id": 1164195,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Sun",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K08A008035",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "Sun Kruizer",
+    "url": "https://bikeindex.org/bikes/1164195",
+    "year": null
+  },
+  {
+    "date_stolen": 1695906000,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Sight 7.1",
+    "id": 1041939,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/422391/large_58DD5DCF-5B98-4746-93CA-41FCB6198913.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "A31120697",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.52,
+      -113.43
+    ],
+    "stolen_location": "Edmonton, T6B 0P1, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/422391/small_58DD5DCF-5B98-4746-93CA-41FCB6198913.jpeg",
+    "title": "2015 Norco Bikes Sight 7.1",
+    "url": "https://bikeindex.org/bikes/1041939",
+    "year": 2015
+  }
+]
