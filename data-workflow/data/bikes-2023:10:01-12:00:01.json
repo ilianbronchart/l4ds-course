@@ -1,0 +1,644 @@
+[
+  {
+    "date_stolen": 1696153154,
+    "description": "OCLV 120 Carbon, no pedals",
+    "frame_colors": [
+      "Yellow or Gold",
+      "Blue",
+      "Red"
+    ],
+    "frame_model": "5500",
+    "id": 1673691,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753696/large_Vintage-Road-Bikes-gear-patrol-Trek-2004.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753696/small_Vintage-Road-Bikes-gear-patrol-Trek-2004.jpg",
+    "title": "2004 Trek 5500",
+    "url": "https://bikeindex.org/bikes/1673691",
+    "year": 2004
+  },
+  {
+    "date_stolen": 1696147623,
+    "description": "",
+    "frame_colors": [
+      "Black",
+      "Yellow or Gold"
+    ],
+    "frame_model": "Dispatch 9/80",
+    "id": 1672202,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/752927/large_IMG_20230927_190752_HDR.jpg",
+    "location_found": null,
+    "manufacturer_name": "Felt",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "IS04210DSP80AJ90404651",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/752927/small_IMG_20230927_190752_HDR.jpg",
+    "title": "Felt Dispatch 9/80",
+    "url": "https://bikeindex.org/bikes/1672202",
+    "year": null
+  },
+  {
+    "date_stolen": 1696140000,
+    "description": null,
+    "frame_colors": [
+      "Blue",
+      "Purple",
+      "Stickers tape or other cover-up"
+    ],
+    "frame_model": "Journey",
+    "id": 1673628,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753658/large_IMG_2170.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Hover-1",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.88,
+      -117.24
+    ],
+    "stolen_location": "La Jolla, CA 92092, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753658/small_IMG_2170.jpeg",
+    "title": "Hover-1 Journey e-scooter",
+    "url": "https://bikeindex.org/bikes/1673628",
+    "year": null
+  },
+  {
+    "date_stolen": 1696122000,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "rock jumper",
+    "id": 1673497,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753605/large_IMG_3355.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Wsbc026042047t",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.1,
+      -118.06
+    ],
+    "stolen_location": "Temple City, CA 91780, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753605/small_IMG_3355.jpeg",
+    "title": "2023 Specialized rock jumper",
+    "url": "https://bikeindex.org/bikes/1673497",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696118400,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Hammer ",
+    "id": 1667526,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753630/large_IMG_20230922_121914431_HDR.jpg",
+    "location_found": null,
+    "manufacturer_name": "Rocky Mountain Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "t94121865",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.55,
+      -113.51
+    ],
+    "stolen_location": "Edmonton, T5H 3A4, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753630/small_IMG_20230922_121914431_HDR.jpg",
+    "title": "2015 Rocky Mountain Bicycles Hammer",
+    "url": "https://bikeindex.org/bikes/1667526",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1696118271,
+    "description": null,
+    "frame_colors": [
+      "Red",
+      "White"
+    ],
+    "frame_model": "Trek",
+    "id": 1673516,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753621/large_IMG_3495.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU138C3291N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      46.09,
+      -64.78
+    ],
+    "stolen_location": "Moncton, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753621/small_IMG_3495.jpeg",
+    "title": "2020 Other Trek",
+    "url": "https://bikeindex.org/bikes/1673516",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1696117299,
+    "description": "",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "",
+    "id": 1173570,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "RR6E21V1981",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2021 Rad Power Bikes",
+    "url": "https://bikeindex.org/bikes/1173570",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696116600,
+    "description": "Green bike. Black bag on back.  Black bike bag holder on back wheel.  Black holder on handlebars to hold cell phone. Handle bars are ergonomic. ",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "",
+    "id": 1673534,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753644/large_IMG_4405.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WUD096067374E",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.52,
+      -113.46
+    ],
+    "stolen_location": "Edmonton, T6C 0W6, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753644/small_IMG_4405.jpeg",
+    "title": "2013 Specialized",
+    "url": "https://bikeindex.org/bikes/1673534",
+    "year": 2013
+  },
+  {
+    "date_stolen": 1696114800,
+    "description": "Has black bike bag on black bike rack. Rear of bike. Ergo I handlebars. Black cell phone holder on from handlebars ",
+    "frame_colors": [
+      "Black",
+      "Green"
+    ],
+    "frame_model": "Talon",
+    "id": 1673549,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753640/large_View_recent_photos.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.52,
+      -113.46
+    ],
+    "stolen_location": "Edmonton, T6C 0W6, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753640/small_View_recent_photos.png",
+    "title": "2018 Giant Talon",
+    "url": "https://bikeindex.org/bikes/1673549",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1696111200,
+    "description": "",
+    "frame_colors": [
+      "Blue",
+      "Black",
+      "White"
+    ],
+    "frame_model": "Hardrock",
+    "id": 1660323,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753581/large_20230930_045313.jpg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC618022693M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.17,
+      -81.01
+    ],
+    "stolen_location": "Daytona Beach, FL 32119, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753581/small_20230930_045313.jpg",
+    "title": "2016 Specialized Hardrock",
+    "url": "https://bikeindex.org/bikes/1660323",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1696111200,
+    "description": "5 Series TCT Carbon, E2, BB90, internal cable routing, DuoTrap compatible 5 Series TCT Carbon, E2, BB90, internal cable routing, DuoTrap compatible",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Madone 5.2",
+    "id": 1673488,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU363CT182F",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.75,
+      -74.01
+    ],
+    "stolen_location": "New York, NY 10011, US",
+    "thumb": null,
+    "title": "2011 Trek Madone 5.2",
+    "url": "https://bikeindex.org/bikes/1673488",
+    "year": 2011
+  },
+  {
+    "date_stolen": 1696107600,
+    "description": "Easy-riding hybrid bike",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Verve 3",
+    "id": 1673395,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU285XC1976R",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      30.3,
+      -97.74
+    ],
+    "stolen_location": "Austin, TX 78705, US",
+    "thumb": null,
+    "title": "2021 Trek Verve 3",
+    "url": "https://bikeindex.org/bikes/1673395",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696104000,
+    "description": "Silver and coffee brown",
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Brown"
+    ],
+    "frame_model": "",
+    "id": 1441754,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753530/large_20221030_173450.jpg",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VP1A22V1801",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.32
+    ],
+    "stolen_location": "Seattle, WA 98102, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753530/small_20221030_173450.jpg",
+    "title": "2022 Rad Power Bikes",
+    "url": "https://bikeindex.org/bikes/1441754",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696101311,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Santa Fe II",
+    "id": 1673294,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Huffy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.48,
+      -81.81
+    ],
+    "stolen_location": "Lakewood, OH 44107, US",
+    "thumb": null,
+    "title": "1955 Huffy Santa Fe II",
+    "url": "https://bikeindex.org/bikes/1673294",
+    "year": 1955
+  },
+  {
+    "date_stolen": 1696099898,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Draft",
+    "id": 1673277,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753513/large_IMG_0181.jpeg",
+    "location_found": null,
+    "manufacturer_name": "SE Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.98,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70119, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753513/small_IMG_0181.jpeg",
+    "title": "2016 SE Bikes Draft",
+    "url": "https://bikeindex.org/bikes/1673277",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1696099174,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1673267,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Carrera bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "M20F000413",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "GB",
+    "thumb": null,
+    "title": "2019 Carrera bicycles",
+    "url": "https://bikeindex.org/bikes/1673267",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1696095143,
+    "description": null,
+    "frame_colors": [
+      "Brown"
+    ],
+    "frame_model": "Stump jumper",
+    "id": 1673221,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "wsbc601110796n",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.04,
+      -114.15
+    ],
+    "stolen_location": "Calgary, T3E 4B3, CA",
+    "thumb": null,
+    "title": "2018 Specialized Stump jumper",
+    "url": "https://bikeindex.org/bikes/1673221",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1696091875,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "792215",
+    "id": 1673354,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Northrock",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1118638400173",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.51,
+      -113.65
+    ],
+    "stolen_location": "Edmonton, T5T 7K3, CA",
+    "thumb": null,
+    "title": "2023 Northrock 792215",
+    "url": "https://bikeindex.org/bikes/1673354",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696089087,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Small",
+    "id": 1673163,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Carrera bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.5,
+      -0.38
+    ],
+    "stolen_location": "Southall, UB2 4BE, GB",
+    "thumb": null,
+    "title": "Carrera bicycles Small",
+    "url": "https://bikeindex.org/bikes/1673163",
+    "year": null
+  },
+  {
+    "date_stolen": 1696087113,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Sirrus X 3.0",
+    "id": 1673148,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/753450/large_7ABD0353-C0B7-45B1-8A20-15A8674913CB.png",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC011307270S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.89,
+      -87.62
+    ],
+    "stolen_location": "Chicago, IL 60611, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/753450/small_7ABD0353-C0B7-45B1-8A20-15A8674913CB.png",
+    "title": "2023 Specialized Sirrus X 3.0",
+    "url": "https://bikeindex.org/bikes/1673148",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696086000,
+    "description": "Alpha SL Aluminum",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "XO 2",
+    "id": 1673135,
+    "is_stock_img": false,
+    "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/2241/xo2_silver.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, VT 05401, US",
+    "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/2241/small_xo2_silver.jpg",
+    "title": "2007 Trek XO 2",
+    "url": "https://bikeindex.org/bikes/1673135",
+    "year": 2007
+  },
+  {
+    "date_stolen": 1696086000,
+    "description": "Black Frame with Silver Lettering and blue features\r\n700 x 38 tires",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "CTM",
+    "id": 795470,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Northrock",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C3 CC 2589",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.04,
+      -114.1
+    ],
+    "stolen_location": "Calgary, T3C 0V1, CA",
+    "thumb": null,
+    "title": "2017 Northrock CTM",
+    "url": "https://bikeindex.org/bikes/795470",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1696082400,
+    "description": "BROWN SEAT AND BROWN WALL TIRES ALSO RECHARGABLE HEAD AND TAIL LIGHTS .ROSE COLOR BELL",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "SCENE",
+    "id": 1077699,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/443736/large_norco-scene-1-313876-1.png",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "T460nx1j100",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      49.89,
+      -119.5
+    ],
+    "stolen_location": "Kelowna, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/443736/small_norco-scene-1-313876-1.png",
+    "title": "2021 Norco Bikes SCENE",
+    "url": "https://bikeindex.org/bikes/1077699",
+    "year": 2021
+  }
+]
