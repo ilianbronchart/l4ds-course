@@ -1,0 +1,415 @@
+[
+  {
+    "date_stolen": 1696654800,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Roadrunner 1",
+    "id": 1184569,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "vr1g21v4102",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.56,
+      -112.09
+    ],
+    "stolen_location": "Phoenix, AZ 85021, US",
+    "thumb": null,
+    "title": "2020 Rad Power Bikes Roadrunner 1 e-scooter",
+    "url": "https://bikeindex.org/bikes/1184569",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1696651314,
+    "description": "",
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "Vita",
+    "id": 1643867,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/737643/large_IMG_3169.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC602145232M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/737643/small_IMG_3169.jpeg",
+    "title": "2016 Specialized Vita",
+    "url": "https://bikeindex.org/bikes/1643867",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1696636800,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Wildwood",
+    "id": 1640603,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Diamondback",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "IA7G07408",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40,
+      -105.21
+    ],
+    "stolen_location": "Boulder, CO 80303, US",
+    "thumb": null,
+    "title": "Diamondback Wildwood",
+    "url": "https://bikeindex.org/bikes/1640603",
+    "year": null
+  },
+  {
+    "date_stolen": 1696629600,
+    "description": "820 Bike X-Small",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "820 Bike X-Small",
+    "id": 1071546,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU050LK0382S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.63,
+      -113.53
+    ],
+    "stolen_location": "Edmonton, T5X 6K4, CA",
+    "thumb": null,
+    "title": "2021 Trek 820 Bike X-Small",
+    "url": "https://bikeindex.org/bikes/1071546",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696624502,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Status 140",
+    "id": 1676872,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC001038976R",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.72,
+      -122.44
+    ],
+    "stolen_location": "San, CA 94112, US",
+    "thumb": null,
+    "title": "2021 Specialized Status 140",
+    "url": "https://bikeindex.org/bikes/1676872",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696623880,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Blue",
+      "White"
+    ],
+    "frame_model": "Edict 1",
+    "id": 1676865,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755427/large_IMG_0170.jpg",
+    "location_found": null,
+    "manufacturer_name": "Felt",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Wd8j00251",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.55,
+      -81.66
+    ],
+    "stolen_location": "Satsuma, FL 32189, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755427/small_IMG_0170.jpg",
+    "title": "2019 Felt Edict 1",
+    "url": "https://bikeindex.org/bikes/1676865",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1696622400,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "XP Lite ",
+    "id": 1676847,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.29,
+      -76.59
+    ],
+    "stolen_location": "Baltimore, MD 21231, US",
+    "thumb": null,
+    "title": "2021 Lectric eBikes XP Lite",
+    "url": "https://bikeindex.org/bikes/1676847",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696621543,
+    "description": "Electric bike, with Bosch motor. 1 black basket on the front ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Loft Go M 700C",
+    "id": 410400,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Electra",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SWTU100SZZ0195M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2018 Electra Loft Go M 700C",
+    "url": "https://bikeindex.org/bikes/410400",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1696620350,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Via Nirone",
+    "id": 1676824,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755412/large_IMG_6467.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Bianchi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.69,
+      -73.96
+    ],
+    "stolen_location": "Brooklyn, NY 11205, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755412/small_IMG_6467.jpeg",
+    "title": "2017 Bianchi Via Nirone",
+    "url": "https://bikeindex.org/bikes/1676824",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1696619879,
+    "description": "My bike has a shimano DEORE XT cranks ,shimano XT hydraulic discbrakes,FOX EVOLUTION SERIES FRONT SHOCK, FOX EVOLUTION SERIES FLOAT CTD,SCHWALBE NOBBY NIC TIRES,MD21 ALEX RIMS ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "KATO FS7",
+    "id": 85005,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Ghost",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WCR1111523K",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2016 Ghost KATO FS7",
+    "url": "https://bikeindex.org/bikes/85005",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1696618800,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Stumpjumper Evo",
+    "id": 1676807,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755407/large_IMG_1435.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC001019150T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.58,
+      -122.37
+    ],
+    "stolen_location": "Seattle, WA 98126, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755407/small_IMG_1435.jpeg",
+    "title": "2022 Specialized Stumpjumper Evo",
+    "url": "https://bikeindex.org/bikes/1676807",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696615200,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Reaction",
+    "id": 1676780,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Cube",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WOW21161PVGT",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.06,
+      -114.04
+    ],
+    "stolen_location": "Calgary, T2E 5M6, CA",
+    "thumb": null,
+    "title": "2022 Cube Reaction",
+    "url": "https://bikeindex.org/bikes/1676780",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696609770,
+    "description": null,
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": "Troy",
+    "id": 1676737,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755367/large_IMG_3661.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Devinci",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "GP003986",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      48.75,
+      -122.44
+    ],
+    "stolen_location": "Bellingham, WA 98229, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755367/small_IMG_3661.jpeg",
+    "title": "2022 Devinci Troy",
+    "url": "https://bikeindex.org/bikes/1676737",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696608000,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Spire",
+    "id": 1676743,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755401/large_IMG_1990.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Transition Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "TBC4605192",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      48.75,
+      -122.44
+    ],
+    "stolen_location": "Bellingham, WA 98229, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755401/small_IMG_1990.jpeg",
+    "title": "2022 Transition Bikes Spire",
+    "url": "https://bikeindex.org/bikes/1676743",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696603722,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "City hybrid",
+    "id": 1676692,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755357/large_IMG_2174.jpeg",
+    "location_found": null,
+    "manufacturer_name": "SCOTT",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.05,
+      -114.05
+    ],
+    "stolen_location": "Calgary, T2E 3X9, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755357/small_IMG_2174.jpeg",
+    "title": "2014 SCOTT City hybrid",
+    "url": "https://bikeindex.org/bikes/1676692",
+    "year": 2014
+  }
+]
