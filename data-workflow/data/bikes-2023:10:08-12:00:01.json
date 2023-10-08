@@ -1,0 +1,812 @@
+[
+  {
+    "date_stolen": 1696753537,
+    "description": null,
+    "frame_colors": [
+      "White",
+      "Blue"
+    ],
+    "frame_model": null,
+    "id": 1677419,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "Fuji",
+    "url": "https://bikeindex.org/bikes/1677419",
+    "year": null
+  },
+  {
+    "date_stolen": 1696749561,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Backwoods",
+    "id": 1677408,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.49,
+      -120.67
+    ],
+    "stolen_location": "Atascadero, CA 93422, US",
+    "thumb": null,
+    "title": "GT Bicycles Backwoods",
+    "url": "https://bikeindex.org/bikes/1677408",
+    "year": null
+  },
+  {
+    "date_stolen": 1696748024,
+    "description": "It’s a lowrider bike I had it 3 years now. It’s red, silver, and gold. Also has mirrors and a little steering wheel that is gold too. ",
+    "frame_colors": [
+      "Red",
+      "Silver, gray or bare metal",
+      "Yellow or Gold"
+    ],
+    "frame_model": "Lowrider bike ",
+    "id": 1677396,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755692/large_IMG_7945.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.02,
+      -121.92
+    ],
+    "stolen_location": "Pittsburg, CA 94565, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755692/small_IMG_7945.jpeg",
+    "title": "Other Lowrider bike",
+    "url": "https://bikeindex.org/bikes/1677396",
+    "year": null
+  },
+  {
+    "date_stolen": 1696747406,
+    "description": null,
+    "frame_colors": [
+      "Red",
+      "Silver, gray or bare metal",
+      "Yellow or Gold"
+    ],
+    "frame_model": "Lowrider bike frame",
+    "id": 1677393,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755690/large_IMG_7945.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.02,
+      -121.92
+    ],
+    "stolen_location": "Pittsburg, CA 94565, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755690/small_IMG_7945.jpeg",
+    "title": "2023 Other Lowrider bike frame",
+    "url": "https://bikeindex.org/bikes/1677393",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696744800,
+    "description": "Blue Evo blue ridge mountain bike. Michelin tires disc brakes. Odyssey pedals ",
+    "frame_colors": [
+      "Blue",
+      "White"
+    ],
+    "frame_model": "Blue Ridge",
+    "id": 1028100,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/413641/large_16170483157944004263115905225735.jpg",
+    "location_found": null,
+    "manufacturer_name": "Evo",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "s671100560",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      46.6,
+      -120.51
+    ],
+    "stolen_location": "Yakima, WA 98901, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/413641/small_16170483157944004263115905225735.jpg",
+    "title": "Evo Blue Ridge",
+    "url": "https://bikeindex.org/bikes/1028100",
+    "year": null
+  },
+  {
+    "date_stolen": 1696737600,
+    "description": "",
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": "Motivator",
+    "id": 1535497,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Mongoose",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      36.14,
+      -95.9
+    ],
+    "stolen_location": "Tulsa, OK 74112, US",
+    "thumb": null,
+    "title": "Mongoose Motivator",
+    "url": "https://bikeindex.org/bikes/1535497",
+    "year": null
+  },
+  {
+    "date_stolen": 1696734000,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "GEN E 1.1",
+    "id": 1677306,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755686/large_Screenshot_2023-10-07_at_10.02.02_PM.jpeg",
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "A23018122",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.21
+    ],
+    "stolen_location": "Believe, WA 98004, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755686/small_Screenshot_2023-10-07_at_10.02.02_PM.jpeg",
+    "title": "2023 REI Co-op GEN E 1.1",
+    "url": "https://bikeindex.org/bikes/1677306",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696730400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Sting R MX4",
+    "id": 1677294,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Talaria",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "RZ73RZP4A2P0005995",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      26.03,
+      -80.13
+    ],
+    "stolen_location": "Hollywood, FL 33019, US",
+    "thumb": null,
+    "title": "2023 Talaria Sting R MX4",
+    "url": "https://bikeindex.org/bikes/1677294",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696729114,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Mountain Bike",
+    "id": 1677273,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "ED060167",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.53,
+      -113.61
+    ],
+    "stolen_location": "Edmonton, Alberta, T5R 2S4, CA",
+    "thumb": null,
+    "title": "2022 Kona Mountain Bike",
+    "url": "https://bikeindex.org/bikes/1677273",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696729110,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Fire Mountain",
+    "id": 1367630,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "ED060167",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2022 Kona Fire Mountain",
+    "url": "https://bikeindex.org/bikes/1367630",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696719600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Vektron",
+    "id": 1677222,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Tern",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "AA80636232",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.99,
+      -93.1
+    ],
+    "stolen_location": "Saint Paul, MN 55117, US",
+    "thumb": null,
+    "title": "2023 Tern Vektron",
+    "url": "https://bikeindex.org/bikes/1677222",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696719600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Kentfield 1 large",
+    "id": 1677225,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755572/large_PXL_20230906_225457001.jpg",
+    "location_found": null,
+    "manufacturer_name": "Marin Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "G21016699",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.96,
+      -93.26
+    ],
+    "stolen_location": "Minneapolis, MN 55404, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755572/small_PXL_20230906_225457001.jpg",
+    "title": "2023 Marin Bikes Kentfield 1 large",
+    "url": "https://bikeindex.org/bikes/1677225",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696718892,
+    "description": "",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "ST100",
+    "id": 1677207,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Decathlon",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "010358378413050921000000001390",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2023 Decathlon ST100",
+    "url": "https://bikeindex.org/bikes/1677207",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696718324,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Red"
+    ],
+    "frame_model": "OCR C3",
+    "id": 1677202,
+    "is_stock_img": false,
+    "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/8612/OCR-C3.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.58,
+      -121.46
+    ],
+    "stolen_location": "Sacramento, CA 95816, US",
+    "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/8612/small_OCR-C3.jpg",
+    "title": "2007 Giant OCR C3",
+    "url": "https://bikeindex.org/bikes/1677202",
+    "year": 2007
+  },
+  {
+    "date_stolen": 1696714200,
+    "description": "Black frame, display accessories, Tektro 160mm mechanical disc brakes, Shimano 7 gear shifts, bike rack, shock absorber Seatpost, white clip reflector wheels, blank white sticker labels covered over the center black frame and on parts of wheel fork. left rear-view mirror. Display buttons on left. 2.0 Premium Headlight and rear lights. CST 3\" x 20\" Fat tires.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "XP 2.0 Black",
+    "id": 1195739,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/501954/large_261272166_2959389964323109_4963049998129277071_n.jpg",
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "218002967",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.71,
+      -74
+    ],
+    "stolen_location": "Ny, NY 10038, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/501954/small_261272166_2959389964323109_4963049998129277071_n.jpg",
+    "title": "2021 Lectric eBikes XP 2.0 Black",
+    "url": "https://bikeindex.org/bikes/1195739",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1696712400,
+    "description": "It has a little bit of yellow spots",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "",
+    "id": 865876,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755513/large_IMG_20230316_135138_697.jpg",
+    "location_found": null,
+    "manufacturer_name": "Sun",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "g072006768",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.9,
+      -78.71
+    ],
+    "stolen_location": "Dewpew, NY 14043, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755513/small_IMG_20230316_135138_697.jpg",
+    "title": "2020 Sun tricycle",
+    "url": "https://bikeindex.org/bikes/865876",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1696712400,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "RadRunner 2",
+    "id": 1677172,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755550/large_Helen_s_second_green_bike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2I21V8691",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.09,
+      -79.1
+    ],
+    "stolen_location": "Niagara Falls, L2G 1T6, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755550/small_Helen_s_second_green_bike.jpg",
+    "title": "Rad Power Bikes RadRunner 2",
+    "url": "https://bikeindex.org/bikes/1677172",
+    "year": null
+  },
+  {
+    "date_stolen": 1696712400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "8.3 DS",
+    "id": 1677204,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755566/large_1000007850.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.49,
+      -73.11
+    ],
+    "stolen_location": "Essex Junction, VT 05452, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755566/small_1000007850.jpg",
+    "title": "Trek 8.3 DS",
+    "url": "https://bikeindex.org/bikes/1677204",
+    "year": null
+  },
+  {
+    "date_stolen": 1696709173,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "X-CALIBER 7",
+    "id": 1677142,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755535/large_Bike_1.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU205C3986N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      28.06,
+      -80.62
+    ],
+    "stolen_location": "Melbourne, FL 32901, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755535/small_Bike_1.jpg",
+    "title": "2023 Trek X-CALIBER 7",
+    "url": "https://bikeindex.org/bikes/1677142",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696708800,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "TCR Advanced Disc 1+ AR",
+    "id": 1677268,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755639/large_IMG_6768.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "G4HF02694",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.77,
+      -86.15
+    ],
+    "stolen_location": "Indianapolis, IN 46204, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755639/small_IMG_6768.jpeg",
+    "title": "2022 Giant TCR Advanced Disc 1+ AR",
+    "url": "https://bikeindex.org/bikes/1677268",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1696708800,
+    "description": "It's a white Lectric step through folding bike. ",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "XP 3.0 ST",
+    "id": 1642418,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755539/large_20230824_182436.jpg",
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SNFSD23G62538",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.91,
+      -105
+    ],
+    "stolen_location": "Westminster, CO 80234, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755539/small_20230824_182436.jpg",
+    "title": "2023 Lectric eBikes XP 3.0 ST",
+    "url": "https://bikeindex.org/bikes/1642418",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696707766,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Ruby",
+    "id": 1677312,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.47,
+      -122.75
+    ],
+    "stolen_location": "Santa Rosa, CA 95403, US",
+    "thumb": null,
+    "title": "2018 Specialized Ruby",
+    "url": "https://bikeindex.org/bikes/1677312",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1696707600,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Gauntlet",
+    "id": 1666662,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Next",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "DJHL093287",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "2023 Next Gauntlet",
+    "url": "https://bikeindex.org/bikes/1666662",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696705200,
+    "description": "Police report # 23165015",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Absolute 1.9 17 step through",
+    "id": 1677130,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "FY22GY8810",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.91,
+      -77.02
+    ],
+    "stolen_location": "Washington, DC 20001, US",
+    "thumb": null,
+    "title": "2023 Fuji Absolute 1.9 17 step through",
+    "url": "https://bikeindex.org/bikes/1677130",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1696692418,
+    "description": " Black bike says crash test dummy on it, Luis Garneau .com duro sr sinyour ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Crash test dummy",
+    "id": 1384776,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/628883/large_5FD2F110-48F3-4CFE-895E-C9EA99A03C23.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "l5g1006727",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/628883/small_5FD2F110-48F3-4CFE-895E-C9EA99A03C23.jpeg",
+    "title": "Other Crash test dummy",
+    "url": "https://bikeindex.org/bikes/1384776",
+    "year": null
+  },
+  {
+    "date_stolen": 1696687200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Strada Vita Due",
+    "id": 394849,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Masi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "44w5h00341",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.81,
+      -96.81
+    ],
+    "stolen_location": "Dallas, TX 75219, US",
+    "thumb": null,
+    "title": "2017 Masi Strada Vita Due",
+    "url": "https://bikeindex.org/bikes/394849",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1696687200,
+    "description": "steps e6100 Lizzard king",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "bullitt",
+    "id": 1008280,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/401619/large_PXL_20210220_212048807.MP.jpg",
+    "location_found": null,
+    "manufacturer_name": "Larry Vs Harry",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WLH6241Q",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.52,
+      -122.6
+    ],
+    "stolen_location": "Portland, OR 97215, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/401619/small_PXL_20210220_212048807.MP.jpg",
+    "title": "2020 Larry Vs Harry bullitt cargo bike (front storage)",
+    "url": "https://bikeindex.org/bikes/1008280",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1696683600,
+    "description": "it has a red water bottle holder",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Mountain Bike",
+    "id": 1677035,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755467/large_Giant_Anthem_29.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "40031913",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.17,
+      -118.4
+    ],
+    "stolen_location": "Valley Village, CA 91607, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755467/small_Giant_Anthem_29.jpg",
+    "title": "2014 Giant Mountain Bike",
+    "url": "https://bikeindex.org/bikes/1677035",
+    "year": 2014
+  },
+  {
+    "date_stolen": 1696681800,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "RadCity 5 Plus High-Step - Charcoal",
+    "id": 1573342,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/755559/large_IMG-3038.jpg",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "CH5F21B5266",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.66,
+      -122.27
+    ],
+    "stolen_location": "Seattle, WA 98105, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/755559/small_IMG-3038.jpg",
+    "title": "2022 Rad Power Bikes RadCity 5 Plus High-Step - Charcoal",
+    "url": "https://bikeindex.org/bikes/1573342",
+    "year": 2022
+  }
+]
