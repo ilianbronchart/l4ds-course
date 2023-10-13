@@ -1,0 +1,670 @@
+[
+  {
+    "date_stolen": 1697196748,
+    "description": "",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Fat tire",
+    "id": 1514024,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/715262/large_image.jpg",
+    "location_found": null,
+    "manufacturer_name": "Nakto",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1777722203001479",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/715262/small_image.jpg",
+    "title": "2023 Nakto Fat tire",
+    "url": "https://bikeindex.org/bikes/1514024",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697187093,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Suzuki Access 125",
+    "id": 1680219,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Access",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "MP04SP7693",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      23.27,
+      77.4
+    ],
+    "stolen_location": "Bhopal, 462001, IN",
+    "thumb": null,
+    "title": "2014 Access Suzuki Access 125 scooter (not electric)",
+    "url": "https://bikeindex.org/bikes/1680219",
+    "year": 2014
+  },
+  {
+    "date_stolen": 1697187093,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Suzuki Access 125",
+    "id": 1680222,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Suzuki Manufacturer I PVT LTD",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1298234",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      23.27,
+      77.4
+    ],
+    "stolen_location": "Bhopal, 462001, IN",
+    "thumb": null,
+    "title": "2023 Suzuki Manufacturer I PVT LTD Suzuki Access 125",
+    "url": "https://bikeindex.org/bikes/1680222",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697183279,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Access 125",
+    "id": 1680214,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Suzuki motorcycle India PVT Ltd",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      19.13,
+      74.74
+    ],
+    "stolen_location": "Ahmadnagar, 414003, IN",
+    "thumb": null,
+    "title": "2019 Suzuki motorcycle India PVT Ltd Access 125 scooter (not electric)",
+    "url": "https://bikeindex.org/bikes/1680214",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1697176800,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Tokul 3",
+    "id": 1680190,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757261/large_IMG_20230930_083356073_MF_PORTRAIT.jpg",
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.59,
+      -105.14
+    ],
+    "stolen_location": "Fort Collins, CO 80521, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757261/small_IMG_20230930_083356073_MF_PORTRAIT.jpg",
+    "title": "2017 Raleigh Tokul 3",
+    "url": "https://bikeindex.org/bikes/1680190",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697175372,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": null,
+    "id": 1680178,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "snmng12j00102",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.79,
+      -117.23
+    ],
+    "stolen_location": "San Diego, CA 92109, US",
+    "thumb": null,
+    "title": "Schwinn",
+    "url": "https://bikeindex.org/bikes/1680178",
+    "year": null
+  },
+  {
+    "date_stolen": 1697175372,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": null,
+    "id": 1680177,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "snmng12j00102",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.79,
+      -117.23
+    ],
+    "stolen_location": "San Diego, CA 92109, US",
+    "thumb": null,
+    "title": "Schwinn",
+    "url": "https://bikeindex.org/bikes/1680177",
+    "year": null
+  },
+  {
+    "date_stolen": 1697168949,
+    "description": "Has maxis front tire and a rear Schwalbe rapid rob. Has a noticeable paint chip/scratch on the left front fork. Has a Gearup sticker under the seat post. Has a Giant water bottle holder with missing bike pump. ",
+    "frame_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "frame_model": "Stance",
+    "id": 1680115,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757251/large_355620225_10159473630197960_3988758065994206865_n.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.2,
+      -114.51
+    ],
+    "stolen_location": "Cochrane, T4C 0L6, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757251/small_355620225_10159473630197960_3988758065994206865_n.jpg",
+    "title": "2017 Giant Stance",
+    "url": "https://bikeindex.org/bikes/1680115",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697164399,
+    "description": "",
+    "frame_colors": [
+      "Black",
+      "Red",
+      "White"
+    ],
+    "frame_model": "",
+    "id": 934700,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/345820/large_20201014_223459.jpg",
+    "location_found": null,
+    "manufacturer_name": "outroad",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "2377400385",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/345820/small_20201014_223459.jpg",
+    "title": "2020 outroad",
+    "url": "https://bikeindex.org/bikes/934700",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697162400,
+    "description": "ALUXX-Grade Butted Aluminum",
+    "frame_colors": [
+      "Black",
+      "Blue",
+      "White"
+    ],
+    "frame_model": "Revel 2 (Black/ Blue)",
+    "id": 1680092,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757231/large_IMG_5656.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.95,
+      -90.13
+    ],
+    "stolen_location": "New Orleans, LA 70118, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757231/small_IMG_5656.jpeg",
+    "title": "2011 Giant Revel 2 (Black/ Blue)",
+    "url": "https://bikeindex.org/bikes/1680092",
+    "year": 2011
+  },
+  {
+    "date_stolen": 1697158800,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Bandit",
+    "id": 1680071,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "FLX",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Order 917010",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.04,
+      -118.45
+    ],
+    "stolen_location": "Los Angeles, CA 90025, US",
+    "thumb": null,
+    "title": "2022 FLX Bandit",
+    "url": "https://bikeindex.org/bikes/1680071",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697158800,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Other",
+    "id": 1680111,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757249/large_IMG_4503.jpeg",
+    "location_found": null,
+    "manufacturer_name": "I don’t know",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.3,
+      -111.68
+    ],
+    "stolen_location": "Orem, UT 84097, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757249/small_IMG_4503.jpeg",
+    "title": "2023 I don’t know Other",
+    "url": "https://bikeindex.org/bikes/1680111",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697154581,
+    "description": "Neon green with black letters pad brakes white wheel reflectors ",
+    "frame_colors": [
+      "Green",
+      "Black"
+    ],
+    "frame_model": "Storm",
+    "id": 1678824,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757191/large_20231011_151200.jpg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "AA30954593",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757191/small_20231011_151200.jpg",
+    "title": "2020 Norco Bikes Storm",
+    "url": "https://bikeindex.org/bikes/1678824",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697152054,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Discover 1",
+    "id": 1680020,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Velotric",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.34,
+      -71.07
+    ],
+    "stolen_location": "Boston, MA 02118, US",
+    "thumb": null,
+    "title": "2023 Velotric Discover 1 e-scooter",
+    "url": "https://bikeindex.org/bikes/1680020",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697151600,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1680022,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU147XC0542T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.07,
+      -89.46
+    ],
+    "stolen_location": "Madison, WI 53705, US",
+    "thumb": null,
+    "title": "Trek",
+    "url": "https://bikeindex.org/bikes/1680022",
+    "year": null
+  },
+  {
+    "date_stolen": 1697146805,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": null,
+    "id": 1679951,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Diamondback",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "H5L13161",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.09,
+      -70.16
+    ],
+    "stolen_location": "Lewiston, ME 04240, US",
+    "thumb": null,
+    "title": "1996 Diamondback",
+    "url": "https://bikeindex.org/bikes/1679951",
+    "year": 1996
+  },
+  {
+    "date_stolen": 1697144400,
+    "description": "",
+    "frame_colors": [
+      "Black",
+      "Green"
+    ],
+    "frame_model": "Marlin 6",
+    "id": 1572472,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/732921/large_James_bike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU193JC0221T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.32
+    ],
+    "stolen_location": "Seattle, WA 98102, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/732921/small_James_bike.jpg",
+    "title": "2022 Trek Marlin 6",
+    "url": "https://bikeindex.org/bikes/1572472",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697130404,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "ZX",
+    "id": 1679791,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Super73",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "250eb9d249b3f6e9",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2022 Super73 ZX",
+    "url": "https://bikeindex.org/bikes/1679791",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697128253,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Duet",
+    "id": 1679770,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hero Cycles Ltd",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "AP03BY0515",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      12.85,
+      77.65
+    ],
+    "stolen_location": "Bangalore, 560100, IN",
+    "thumb": null,
+    "title": "2016 Hero Cycles Ltd Duet",
+    "url": "https://bikeindex.org/bikes/1679770",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1697126400,
+    "description": null,
+    "frame_colors": [
+      "Orange",
+      "Yellow or Gold"
+    ],
+    "frame_model": "Marlin",
+    "id": 1679995,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757174/large_264A848D-F379-4595-B843-E760CD646CAE.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU209JC0597S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.91,
+      -122.27
+    ],
+    "stolen_location": "Everett, WA 98204, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757174/small_264A848D-F379-4595-B843-E760CD646CAE.jpeg",
+    "title": "Trek Marlin",
+    "url": "https://bikeindex.org/bikes/1679995",
+    "year": null
+  },
+  {
+    "date_stolen": 1697123400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "XP Lite ",
+    "id": 1654603,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "LEC220146616",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.92,
+      -77.02
+    ],
+    "stolen_location": "Washington, DC 20059, US",
+    "thumb": null,
+    "title": "2023 Lectric eBikes XP Lite",
+    "url": "https://bikeindex.org/bikes/1654603",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697122800,
+    "description": "Serial number from SAFE SF is 024248",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1679760,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757088/large_0B2BCB3E-70FB-43B3-B476-2AC76CC398D4.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Pure Fix Cycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "024248",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.78,
+      -122.42
+    ],
+    "stolen_location": "San Francisco, CA 94102, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757088/small_0B2BCB3E-70FB-43B3-B476-2AC76CC398D4.jpeg",
+    "title": "Pure Fix Cycles",
+    "url": "https://bikeindex.org/bikes/1679760",
+    "year": null
+  },
+  {
+    "date_stolen": 1697119200,
+    "description": "The bikes is all black and has hydraulic breaks.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Storm 4",
+    "id": 1526513,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/702714/large_IMG_1244.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "T681NX2J208",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.51,
+      -113.5
+    ],
+    "stolen_location": "Edmonton, T6H 2E7, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/702714/small_IMG_1244.jpeg",
+    "title": "2023 Norco Bikes Storm 4",
+    "url": "https://bikeindex.org/bikes/1526513",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697115921,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Marlin 6",
+    "id": 1679693,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU160JC0669T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.68,
+      -78.76
+    ],
+    "stolen_location": "Apex, NC 27539, US",
+    "thumb": null,
+    "title": "2023 Trek Marlin 6",
+    "url": "https://bikeindex.org/bikes/1679693",
+    "year": 2023
+  }
+]
