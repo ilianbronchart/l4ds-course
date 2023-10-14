@@ -1,0 +1,608 @@
+[
+  {
+    "date_stolen": 1697269204,
+    "description": "Black with fat tires handle bar on left slity bent",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "BIGGITY",
+    "id": 1680086,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757599/large_IMG_20231012_172022955_HDR.jpg",
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SNXDS19C08396",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757599/small_IMG_20231012_172022955_HDR.jpg",
+    "title": "Schwinn BIGGITY",
+    "url": "https://bikeindex.org/bikes/1680086",
+    "year": null
+  },
+  {
+    "date_stolen": 1697245200,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Tripel",
+    "id": 1680638,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757559/large_71807802194--2942153A-28B7-4FBD-BFC4-B7ADD52E20F3.jpg",
+    "location_found": null,
+    "manufacturer_name": "SE Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WBD329",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.51,
+      -122.69
+    ],
+    "stolen_location": "Portland, OR 97201, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757559/small_71807802194--2942153A-28B7-4FBD-BFC4-B7ADD52E20F3.jpg",
+    "title": "2015 SE Bikes Tripel",
+    "url": "https://bikeindex.org/bikes/1680638",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1697241600,
+    "description": "Cargo bike",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Benno boost",
+    "id": 1680610,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757519/large_IMG_7368.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Benno",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WNBL00927",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.97,
+      -122.5
+    ],
+    "stolen_location": "San Rafael, NC 94901, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757519/small_IMG_7368.jpeg",
+    "title": "2020 Benno Benno boost",
+    "url": "https://bikeindex.org/bikes/1680610",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697237115,
+    "description": "",
+    "frame_colors": [
+      "Green",
+      "Yellow or Gold"
+    ],
+    "frame_model": "",
+    "id": 1670136,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/751829/large_1000000038.jpg",
+    "location_found": null,
+    "manufacturer_name": "Diamondback",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "DAP14 MO00428",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/751829/small_1000000038.jpg",
+    "title": "Diamondback",
+    "url": "https://bikeindex.org/bikes/1670136",
+    "year": null
+  },
+  {
+    "date_stolen": 1697236388,
+    "description": "Had a basket on the back when stolen. Pink Liv logo on the downtube",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Alight 2 DD Disc",
+    "id": 1680556,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757510/large_image000000.jpg",
+    "location_found": null,
+    "manufacturer_name": "Liv",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K5GK36013",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.52,
+      -122.68
+    ],
+    "stolen_location": "Portland, OR OR, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757510/small_image000000.jpg",
+    "title": "2021 Liv Alight 2 DD Disc",
+    "url": "https://bikeindex.org/bikes/1680556",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697234645,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "DRT 1.1",
+    "id": 1677678,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "F22013863",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2023 REI Co-op DRT 1.1",
+    "url": "https://bikeindex.org/bikes/1677678",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697230800,
+    "description": "Small dent laterally across forward part of top tube. ",
+    "frame_colors": [
+      "Black",
+      "White"
+    ],
+    "frame_model": "CAAD10",
+    "id": 1447418,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757492/large_380686438_6917584358285340_6216424596114049012_n.jpg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "NM25939",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.87,
+      -77.12
+    ],
+    "stolen_location": "Arlington, VA 22203, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757492/small_380686438_6917584358285340_6216424596114049012_n.jpg",
+    "title": "2012 Cannondale CAAD10",
+    "url": "https://bikeindex.org/bikes/1447418",
+    "year": 2012
+  },
+  {
+    "date_stolen": 1697227200,
+    "description": null,
+    "frame_colors": [
+      "Teal",
+      "Black",
+      "Orange"
+    ],
+    "frame_model": "Checkpoint SLR",
+    "id": 1680505,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757478/large_2023-10-13_15-39-48.png",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU216T0001T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.72,
+      -73.85
+    ],
+    "stolen_location": "Queens, NY 11375, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757478/small_2023-10-13_15-39-48.png",
+    "title": "2023 Trek Checkpoint SLR",
+    "url": "https://bikeindex.org/bikes/1680505",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697227200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Rad 2",
+    "id": 1680493,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757476/large_20230905_084518.jpg",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2L21V7465",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.05,
+      -105.28
+    ],
+    "stolen_location": "Boulder, CO 80304, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757476/small_20230905_084518.jpg",
+    "title": "2023 Rad Power Bikes Rad 2",
+    "url": "https://bikeindex.org/bikes/1680493",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697226608,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Fuji crosstown 1.3, Low step, size 15’’",
+    "id": 1680471,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757472/large_IMG_4954.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WBD100L0612T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.06,
+      -89.4
+    ],
+    "stolen_location": "Madison, WI 53715, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757472/small_IMG_4954.jpeg",
+    "title": "Other Fuji crosstown 1.3, Low step, size 15’’",
+    "url": "https://bikeindex.org/bikes/1680471",
+    "year": null
+  },
+  {
+    "date_stolen": 1697224287,
+    "description": "HSD Gen 2 P5i Electric Cargo Bike Sea Breeze",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "HSD Gen 2 P5i Electric Cargo Bike Sea Breeze",
+    "id": 1678852,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Tern",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "AA30137558",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "Tern HSD Gen 2 P5i Electric Cargo Bike Sea...",
+    "url": "https://bikeindex.org/bikes/1678852",
+    "year": null
+  },
+  {
+    "date_stolen": 1697220783,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Surron X Light bee",
+    "id": 1680407,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Surron USA",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "HU3YWC101N0026212",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      25.61,
+      -80.34
+    ],
+    "stolen_location": "Miami, FL 33157, US",
+    "thumb": null,
+    "title": "2023 Surron USA Surron X Light bee e-skateboard (e-unicycle, personal mobility device, etc)",
+    "url": "https://bikeindex.org/bikes/1680407",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697220000,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Mini",
+    "id": 1680401,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757422/large_IMG_1068.JPG",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.35
+    ],
+    "stolen_location": "Seattle, WA 98109, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757422/small_IMG_1068.JPG",
+    "title": "2018 Rad Power Bikes Mini",
+    "url": "https://bikeindex.org/bikes/1680401",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1697216400,
+    "description": "Womens \"crosstrail\"",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "SPEC 18 ARIEL BLK SML",
+    "id": 1680378,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC920135973N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.46,
+      -80.48
+    ],
+    "stolen_location": "Kitchener, N2H 0E1, CA",
+    "thumb": null,
+    "title": "2018 Specialized SPEC 18 ARIEL BLK SML",
+    "url": "https://bikeindex.org/bikes/1680378",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1697216400,
+    "description": "Lynskey Helix Sport with 38mm gravel tires.  Pink bottle cages - wahoo computer with front light, Look keo pedals",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Helix Sport",
+    "id": 1680393,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757406/large_Helix_Sport.jpg",
+    "location_found": null,
+    "manufacturer_name": "Lynskey",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "50953",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.64,
+      -121.87
+    ],
+    "stolen_location": "Pleasanton, CA 94566, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757406/small_Helix_Sport.jpg",
+    "title": "2022 Lynskey Helix Sport",
+    "url": "https://bikeindex.org/bikes/1680393",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697214312,
+    "description": "Blue Pulsar 220 DTS - IF\r\n\r\nRegistration No :- KL23T496",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "",
+    "id": 1680351,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "KL23T496",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "IN",
+    "thumb": null,
+    "title": "2022 Other",
+    "url": "https://bikeindex.org/bikes/1680351",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697212800,
+    "description": "Mid size trail/mountain bike purplish black good condition ",
+    "frame_colors": [
+      "Purple",
+      "Black"
+    ],
+    "frame_model": "Marlin 5",
+    "id": 1662169,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/748003/large_bike.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU 207 JC 0685 R",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/748003/small_bike.jpeg",
+    "title": "Trek Marlin 5",
+    "url": "https://bikeindex.org/bikes/1662169",
+    "year": null
+  },
+  {
+    "date_stolen": 1697209200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Tallboy",
+    "id": 1680336,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757389/large_IMG_bike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Santa Cruz",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "T0010FL01326",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.37,
+      -122.02
+    ],
+    "stolen_location": "Sunnyvale, CA 94086, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757389/small_IMG_bike.jpg",
+    "title": "2010 Santa Cruz Tallboy",
+    "url": "https://bikeindex.org/bikes/1680336",
+    "year": 2010
+  },
+  {
+    "date_stolen": 1697207872,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Radrover 6ST  white",
+    "id": 1680302,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "RU6121V2869",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      52.11,
+      -106.57
+    ],
+    "stolen_location": "Saskatoon, Sask, S7V 1E7, CA",
+    "thumb": null,
+    "title": "2021 Rad Power Bikes Radrover 6ST white",
+    "url": "https://bikeindex.org/bikes/1680302",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697206238,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Reliegh",
+    "id": 1680286,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "r924070095",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.41,
+      -122.62
+    ],
+    "stolen_location": "Milwaukee, OR 97267, US",
+    "thumb": null,
+    "title": "Raleigh Reliegh",
+    "url": "https://bikeindex.org/bikes/1680286",
+    "year": null
+  },
+  {
+    "date_stolen": 1697205600,
+    "description": null,
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": null,
+    "id": 1646107,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "F32BL4294",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.01,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO, US",
+    "thumb": null,
+    "title": "Kona",
+    "url": "https://bikeindex.org/bikes/1646107",
+    "year": null
+  },
+  {
+    "date_stolen": 1697205600,
+    "description": "Has a swytch electric bike conversion front wheel etc.\r\nRaw Umber’ colour  ",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "309511",
+    "id": 1680368,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Brompton Bicycle",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1006147233",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.42,
+      -0.3
+    ],
+    "stolen_location": "London, KT2 5AY, GB",
+    "thumb": null,
+    "title": "Brompton Bicycle 309511",
+    "url": "https://bikeindex.org/bikes/1680368",
+    "year": null
+  }
+]
