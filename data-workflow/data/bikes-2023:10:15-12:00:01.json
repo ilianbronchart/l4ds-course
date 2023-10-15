@@ -1,0 +1,610 @@
+[
+  {
+    "date_stolen": 1697349600,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Mountain bike ",
+    "id": 1681177,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Iron Horse Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "065DS013",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.83,
+      -122.26
+    ],
+    "stolen_location": "Oakland, CA 94609, US",
+    "thumb": null,
+    "title": "2023 Iron Horse Bikes Mountain bike",
+    "url": "https://bikeindex.org/bikes/1681177",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697345031,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Cross Trail",
+    "id": 1681149,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.65,
+      -90.26
+    ],
+    "stolen_location": "St. Louis, MO 63108, US",
+    "thumb": null,
+    "title": "2017 Specialized Cross Trail",
+    "url": "https://bikeindex.org/bikes/1681149",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697342731,
+    "description": "\"Raw Laquer\" color",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "M6",
+    "id": 695587,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/259501/large_IMG_0063.jpg",
+    "location_found": null,
+    "manufacturer_name": "Brompton Bicycle",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1805290339",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/259501/small_IMG_0063.jpg",
+    "title": "2018 Brompton Bicycle M6",
+    "url": "https://bikeindex.org/bikes/695587",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1697342400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Trek Verve 1-22",
+    "id": 1681170,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757888/large_IMG_1717.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU329XC0411S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.64,
+      -122.37
+    ],
+    "stolen_location": "Seattle, WA 98119, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757888/small_IMG_1717.jpeg",
+    "title": "2022 Trek Trek Verve 1-22",
+    "url": "https://bikeindex.org/bikes/1681170",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697338800,
+    "description": "Trek dual sport+ 2\r\nBlue\r\nE-bike\r\nTwo grey panier bags over rear tire",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "",
+    "id": 1518333,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757881/large_20230511_074522.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU105XC0348T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.65,
+      -113.63
+    ],
+    "stolen_location": "St Albert, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757881/small_20230511_074522.jpg",
+    "title": "Trek",
+    "url": "https://bikeindex.org/bikes/1518333",
+    "year": null
+  },
+  {
+    "date_stolen": 1697335200,
+    "description": "",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Corsa",
+    "id": 1400447,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Novara",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "f007y0413",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "Novara Corsa",
+    "url": "https://bikeindex.org/bikes/1400447",
+    "year": null
+  },
+  {
+    "date_stolen": 1697330656,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Dual sport 2",
+    "id": 1681050,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU080XC1102T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.55,
+      -113.49
+    ],
+    "stolen_location": "Edmonton, CA",
+    "thumb": null,
+    "title": "2022 Trek Dual sport 2",
+    "url": "https://bikeindex.org/bikes/1681050",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697324652,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "520 Grando",
+    "id": 1681012,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757810/large_71410027661__9031D04E-4CB0-4DA5-937B-D633F80F41A8.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "299LK03515",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.51,
+      -122.65
+    ],
+    "stolen_location": "Portland, OR 97214-2478, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757810/small_71410027661__9031D04E-4CB0-4DA5-937B-D633F80F41A8.jpeg",
+    "title": "2021 Trek 520 Grando",
+    "url": "https://bikeindex.org/bikes/1681012",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697324400,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": null,
+    "id": 1675897,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "All City",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Y1601150",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.72,
+      -111.9
+    ],
+    "stolen_location": "Salt Lake City, UT 84115, US",
+    "thumb": null,
+    "title": "All City",
+    "url": "https://bikeindex.org/bikes/1675897",
+    "year": null
+  },
+  {
+    "date_stolen": 1697324012,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Quick CX 4 ",
+    "id": 1681008,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757806/large_IMG_5415.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "YH24490",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.14,
+      -118.4
+    ],
+    "stolen_location": "Studio City, CA 91604, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757806/small_IMG_5415.jpeg",
+    "title": "2022 Cannondale Quick CX 4",
+    "url": "https://bikeindex.org/bikes/1681008",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697320800,
+    "description": "Electra Women's Townie Go 8i Electric Bike - 26",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Electra Women's Townie Go 8i Electric Bike - 26",
+    "id": 789732,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/337741/large_Electra-Townie-Go-8i-Ladies-Sapphire-568497-1.jpg",
+    "location_found": null,
+    "manufacturer_name": "Townie Go 8I Step Thru",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU349SZ0071N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.52,
+      -113.58
+    ],
+    "stolen_location": "Edmonton, T5R 1E4, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/337741/small_Electra-Townie-Go-8i-Ladies-Sapphire-568497-1.jpg",
+    "title": "2020 Townie Go 8I Step Thru Electra Women's Townie Go 8i Electric...",
+    "url": "https://bikeindex.org/bikes/789732",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697317200,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": null,
+    "id": 1680966,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.92,
+      -90.11
+    ],
+    "stolen_location": "New Orleans, LA 70115, US",
+    "thumb": null,
+    "title": "2018 Trek",
+    "url": "https://bikeindex.org/bikes/1680966",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1697317200,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Traverse ",
+    "id": 1680970,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.92,
+      -90.11
+    ],
+    "stolen_location": "New Orleans, LA 70115, US",
+    "thumb": null,
+    "title": "2017 Fuji Traverse",
+    "url": "https://bikeindex.org/bikes/1680970",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697315961,
+    "description": "It’s a 24 inch bike, it has two different grips, a flashlight in the front and the back. ",
+    "frame_colors": [
+      "Black",
+      "Red"
+    ],
+    "frame_model": "",
+    "id": 1680938,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Infinity Cycle Works",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "1504738",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2019 Infinity Cycle Works",
+    "url": "https://bikeindex.org/bikes/1680938",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1697313600,
+    "description": "Has a bunch of ucdavis stickers on it",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "SIRRUS ",
+    "id": 1664355,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757862/large_IMG_2718.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC920184854N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757862/small_IMG_2718.jpeg",
+    "title": "2023 Specialized SIRRUS",
+    "url": "https://bikeindex.org/bikes/1664355",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697313600,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Omafiets ",
+    "id": 1335250,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757771/large_bike.jpg",
+    "location_found": null,
+    "manufacturer_name": "Unknown",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "B101241301",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.56,
+      -113.55
+    ],
+    "stolen_location": "Edmonton, T5M 1E8, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757771/small_bike.jpg",
+    "title": "Unknown Omafiets",
+    "url": "https://bikeindex.org/bikes/1335250",
+    "year": null
+  },
+  {
+    "date_stolen": 1697313365,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1645591,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "wsbc606024524g",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "Specialized",
+    "url": "https://bikeindex.org/bikes/1645591",
+    "year": null
+  },
+  {
+    "date_stolen": 1697310000,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "PRIORITY CONTINUUM ONYX",
+    "id": 1680896,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757720/large_PXL_20230402_201109452.jpg",
+    "location_found": null,
+    "manufacturer_name": "Priority Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "PTCN2060142",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      21.34,
+      -157.84
+    ],
+    "stolen_location": "Honolulu, HI 96817, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757720/small_PXL_20230402_201109452.jpg",
+    "title": "2020 Priority Bicycles PRIORITY CONTINUUM ONYX",
+    "url": "https://bikeindex.org/bikes/1680896",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697301892,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Fenix SL",
+    "id": 1680833,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757674/large_IMG_1645.JPG",
+    "location_found": null,
+    "manufacturer_name": "Ridley",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "551557",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.54,
+      -113.51
+    ],
+    "stolen_location": "Edmonton, T5J 3N3, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757674/small_IMG_1645.JPG",
+    "title": "2017 Ridley Fenix SL",
+    "url": "https://bikeindex.org/bikes/1680833",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697299200,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Solo 30",
+    "id": 1680837,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rocky Mountain Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.54,
+      -113.51
+    ],
+    "stolen_location": "Edmonton, T5J 3N3, CA",
+    "thumb": null,
+    "title": "2021 Rocky Mountain Bicycles Solo 30",
+    "url": "https://bikeindex.org/bikes/1680837",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697299200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "E 117 Tri Disc Large",
+    "id": 1680826,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/757672/large_IMG_20210215_145209_173__1_.jpg",
+    "location_found": null,
+    "manufacturer_name": "Argon 18",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "317BLAR00038VI",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.9,
+      -104.94
+    ],
+    "stolen_location": "Northglenn, CO 80233, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/757672/small_IMG_20210215_145209_173__1_.jpg",
+    "title": "2021 Argon 18 E 117 Tri Disc Large",
+    "url": "https://bikeindex.org/bikes/1680826",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697290200,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Rad Runner 2",
+    "id": 1279775,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2L21V8653",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      27.89,
+      -82.5
+    ],
+    "stolen_location": "Tampa, FL 33611, US",
+    "thumb": null,
+    "title": "2022 Rad Power Bikes Rad Runner 2",
+    "url": "https://bikeindex.org/bikes/1279775",
+    "year": 2022
+  }
+]
