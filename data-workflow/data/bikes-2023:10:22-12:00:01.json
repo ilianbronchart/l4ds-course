@@ -1,0 +1,820 @@
+[
+  {
+    "date_stolen": 1697964340,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Unknown",
+    "id": 1684865,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Panasonic",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.74,
+      -111.99
+    ],
+    "stolen_location": "Salt Lake City, UT 84104, US",
+    "thumb": null,
+    "title": "Panasonic Unknown",
+    "url": "https://bikeindex.org/bikes/1684865",
+    "year": null
+  },
+  {
+    "date_stolen": 1697947200,
+    "description": "Bought this bike in 2019 from a guy in Seattle who remakes bikes from vintage frames. I believe it was made from Malvern Star frame and repurposed. ",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Sport Touring 200",
+    "id": 1684816,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759798/large_IMG_9555.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Handmade",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Made without serial",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.45,
+      -122.63
+    ],
+    "stolen_location": "Milwaukie, OR 97222, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759798/small_IMG_9555.jpeg",
+    "title": "Handmade Sport Touring 200",
+    "url": "https://bikeindex.org/bikes/1684816",
+    "year": null
+  },
+  {
+    "date_stolen": 1697942409,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Blue",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "7200",
+    "id": 1684742,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.66,
+      -91.61
+    ],
+    "stolen_location": "Iowa City, IA 52246, US",
+    "thumb": null,
+    "title": "Trek 7200",
+    "url": "https://bikeindex.org/bikes/1684742",
+    "year": null
+  },
+  {
+    "date_stolen": 1697936400,
+    "description": "An elliptical machine on wheels, with electric motor assist",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "8C ",
+    "id": 1684717,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759762/large_project_529_serial_number.jpg",
+    "location_found": null,
+    "manufacturer_name": "Elliptigo",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "15017102",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.66,
+      -122.34
+    ],
+    "stolen_location": "Seattle, WA 98103, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759762/small_project_529_serial_number.jpg",
+    "title": "2015 Elliptigo 8C",
+    "url": "https://bikeindex.org/bikes/1684717",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1697936400,
+    "description": "",
+    "frame_colors": [
+      "Black",
+      "Purple"
+    ],
+    "frame_model": "Hybrid",
+    "id": 1163180,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759806/large_Photo_from_Samai_Meza.jpg",
+    "location_found": null,
+    "manufacturer_name": "Liv",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "KX7015540",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759806/small_Photo_from_Samai_Meza.jpg",
+    "title": "Liv Hybrid",
+    "url": "https://bikeindex.org/bikes/1163180",
+    "year": null
+  },
+  {
+    "date_stolen": 1697932800,
+    "description": "",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Diverge E5 56",
+    "id": 1684689,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759739/large_IMG_9142.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "DIV36426346",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      27.87,
+      -82.53
+    ],
+    "stolen_location": "Tampa, FL 33616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759739/small_IMG_9142.jpeg",
+    "title": "2021 Specialized Diverge E5 56",
+    "url": "https://bikeindex.org/bikes/1684689",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697932800,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Blue"
+    ],
+    "frame_model": "Cube 2016 Access WLS Disc29",
+    "id": 1684877,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Cube",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WOW91454LA0315M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.84,
+      10.8
+    ],
+    "stolen_location": "Wernigerode, 38855, DE",
+    "thumb": null,
+    "title": "2016 Cube Cube 2016 Access WLS Disc29",
+    "url": "https://bikeindex.org/bikes/1684877",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1697932478,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "MAX G30LP",
+    "id": 1684700,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Segway Ninebot",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "N4GNB2234C1328",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.35
+    ],
+    "stolen_location": "Seattle, WA 98109, US",
+    "thumb": null,
+    "title": "2023 Segway Ninebot MAX G30LP e-skateboard (e-unicycle, personal mobility device, etc)",
+    "url": "https://bikeindex.org/bikes/1684700",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697931240,
+    "description": "MTB converted to eCargo bike pulling a Bell trailer. Red Karrimor rear panniers, Blue Cannondale front pannier. Birchwood battery box mounted in frame triangle. Rear BMC hub motor. Grin Cycle Analyst v1.",
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Jekyll",
+    "id": 1684730,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759776/large_D03F2709D566_1697943824015.jpg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "837654P301516",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.53,
+      -113.53
+    ],
+    "stolen_location": "Edmonton, T6G 2B5, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759776/small_D03F2709D566_1697943824015.jpg",
+    "title": "2005 Cannondale Jekyll",
+    "url": "https://bikeindex.org/bikes/1684730",
+    "year": 2005
+  },
+  {
+    "date_stolen": 1697927574,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Marlin 4 Gen 2",
+    "id": 1684637,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759715/large_Screen_Shot_2023-10-21_at_4.39.19_PM.png",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "123",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.98,
+      -105.25
+    ],
+    "stolen_location": "Boulder, CO 80305, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759715/small_Screen_Shot_2023-10-21_at_4.39.19_PM.png",
+    "title": "2022 Trek Marlin 4 Gen 2",
+    "url": "https://bikeindex.org/bikes/1684637",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697925600,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "1.1",
+    "id": 1684615,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759693/large_co-op-generation-e-1-1-header.jpeg",
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "j22006277",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.54,
+      -122.65
+    ],
+    "stolen_location": "Portland, OR 97212, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759693/small_co-op-generation-e-1-1-header.jpeg",
+    "title": "2023 REI Co-op 1.1",
+    "url": "https://bikeindex.org/bikes/1684615",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697925600,
+    "description": null,
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": "Rockhopper Pro",
+    "id": 1647692,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "UD80600137D",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.02,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO 80310, US",
+    "thumb": null,
+    "title": "Specialized Rockhopper Pro",
+    "url": "https://bikeindex.org/bikes/1647692",
+    "year": null
+  },
+  {
+    "date_stolen": 1697922681,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "VERVE+ MEN'S US L MATTE",
+    "id": 1684589,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU021C6156S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.07,
+      -106.58
+    ],
+    "stolen_location": "Albuqerque, NM 87108, US",
+    "thumb": null,
+    "title": "2021 Trek VERVE+ MEN'S US L MATTE",
+    "url": "https://bikeindex.org/bikes/1684589",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697922000,
+    "description": "",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Trance",
+    "id": 1497219,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/683918/large_B3A44133-4395-4217-A2AC-B028587BC375.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.58,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98144, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/683918/small_B3A44133-4395-4217-A2AC-B028587BC375.jpeg",
+    "title": "2016 Giant Trance",
+    "url": "https://bikeindex.org/bikes/1497219",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1697920961,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Blue"
+    ],
+    "frame_model": "Infinity Boss Three Unisex Hybrid Bike",
+    "id": 1684577,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759669/large_221INF_boss3mn_disc7sm-750x429.png",
+    "location_found": null,
+    "manufacturer_name": "Infinity Cycle Works",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JK203910910",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.32
+    ],
+    "stolen_location": "Seattle, WA 98102, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759669/small_221INF_boss3mn_disc7sm-750x429.png",
+    "title": "2022 Infinity Cycle Works Infinity Boss Three Unisex Hybrid Bike",
+    "url": "https://bikeindex.org/bikes/1684577",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697918400,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "1.1",
+    "id": 1684611,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759692/large_co-op-generation-e-1-1-header.jpeg",
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C22026577",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.54,
+      -122.65
+    ],
+    "stolen_location": "Portland, OR 97212, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759692/small_co-op-generation-e-1-1-header.jpeg",
+    "title": "2023 REI Co-op 1.1",
+    "url": "https://bikeindex.org/bikes/1684611",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697918400,
+    "description": "",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "RadRunner Plus",
+    "id": 1169578,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759747/large_B259851D-325B-45F8-A1F6-56D8E1B5E013.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VP1E21V1307",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.72,
+      -117.91
+    ],
+    "stolen_location": "Santa Ana, CA 92704, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759747/small_B259851D-325B-45F8-A1F6-56D8E1B5E013.jpeg",
+    "title": "2021 Rad Power Bikes RadRunner Plus",
+    "url": "https://bikeindex.org/bikes/1169578",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697917383,
+    "description": null,
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": "Siris 2.0 step-through",
+    "id": 1684548,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC011025254S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.5,
+      -113.52
+    ],
+    "stolen_location": "Edmonton, T6H 1R1, CA",
+    "thumb": null,
+    "title": "2021 Specialized Siris 2.0 step-through",
+    "url": "https://bikeindex.org/bikes/1684548",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697916639,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "tempt 4",
+    "id": 1684534,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Liv",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C8BL2177",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.65,
+      -113.65
+    ],
+    "stolen_location": "St. Albert, T8N 5R7, CA",
+    "thumb": null,
+    "title": "2017 Liv tempt 4",
+    "url": "https://bikeindex.org/bikes/1684534",
+    "year": 2017
+  },
+  {
+    "date_stolen": 1697913924,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Touring Hybrid ONE 500",
+    "id": 1684511,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759624/large_IMG-7184.JPEG",
+    "location_found": null,
+    "manufacturer_name": "Cube",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "wow31991psft",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.68,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98115, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759624/small_IMG-7184.JPEG",
+    "title": "2022 Cube Touring Hybrid ONE 500",
+    "url": "https://bikeindex.org/bikes/1684511",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697911200,
+    "description": null,
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": null,
+    "id": 1684498,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759622/large_IMG_2726.png",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      56.73,
+      -111.44
+    ],
+    "stolen_location": "Wood Buffalo, T9H 3W4, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759622/small_IMG_2726.png",
+    "title": "Cannondale",
+    "url": "https://bikeindex.org/bikes/1684498",
+    "year": null
+  },
+  {
+    "date_stolen": 1697911200,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Quick 5",
+    "id": 1684513,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.95,
+      -75.17
+    ],
+    "stolen_location": "Philadelphia, PA 19103, US",
+    "thumb": null,
+    "title": "Cannondale Quick 5",
+    "url": "https://bikeindex.org/bikes/1684513",
+    "year": null
+  },
+  {
+    "date_stolen": 1697910785,
+    "description": "fixed gear drivetrain with drop handlebars.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Swift Folder",
+    "id": 1684491,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759618/large_swift301.jpg",
+    "location_found": null,
+    "manufacturer_name": "Swift Folder",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.03,
+      -118.35
+    ],
+    "stolen_location": "Los Angeles, CA 90016, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759618/small_swift301.jpg",
+    "title": "2004 Swift Folder Swift Folder",
+    "url": "https://bikeindex.org/bikes/1684491",
+    "year": 2004
+  },
+  {
+    "date_stolen": 1697909387,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Packa Genie",
+    "id": 1684480,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759609/large_IMG_2727.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Blix",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "US211———",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.93,
+      -77.03
+    ],
+    "stolen_location": "Washington, DC 20010, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759609/small_IMG_2727.jpeg",
+    "title": "2023 Blix Packa Genie cargo bike (rear storage)",
+    "url": "https://bikeindex.org/bikes/1684480",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697907600,
+    "description": "cargo bike with large racks front and rear and pizza deliver bag on front rack at time of theft. Swytch electric conversion kit on front wheel.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "New Cycle Truck",
+    "id": 1684493,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759619/large_cargo134.jpg",
+    "location_found": null,
+    "manufacturer_name": "David Wilson Industries",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.03,
+      -118.35
+    ],
+    "stolen_location": "Los Angeles, CA 90016, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759619/small_cargo134.jpg",
+    "title": "2008 David Wilson Industries New Cycle Truck",
+    "url": "https://bikeindex.org/bikes/1684493",
+    "year": 2008
+  },
+  {
+    "date_stolen": 1697904000,
+    "description": "",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Procaliber 9.5",
+    "id": 1684453,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU023XD0252T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.42,
+      -3.7
+    ],
+    "stolen_location": "Madrid, MD 28106, ES",
+    "thumb": null,
+    "title": "2022 Trek Procaliber 9.5",
+    "url": "https://bikeindex.org/bikes/1684453",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697904000,
+    "description": "White frame, Racing regulation Odessey Pedals, White Saddle, Black High Rise 4 Piece 9\" x 29\" Handlebars, S&E Racing white Handgrips, Odessey 1/2 link Chain, 9T Cassette, 25 T Sprocket, Side Hub Grind Guard on the chain., Fit Rims and Tires, A black and white mouth with an eyeball sticker on the front of the frame, Painted letters LFFL in Blue on the Left side of the Frame by the Saddle. I worked very hard to make this bike mine and put every piece together myself. I am devastated it is gone. I hope someone can help me to recover her. ",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "STR",
+    "id": 1684466,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fit bike Co.",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.8,
+      -116.97
+    ],
+    "stolen_location": "El Cajon, CA 92020, US",
+    "thumb": null,
+    "title": "2023 Fit bike Co. STR",
+    "url": "https://bikeindex.org/bikes/1684466",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697896800,
+    "description": "Brand new, purchased this past July. Axium bike rack, black fenders, small tool bag under seat, U-Lock holder strapped to the frame near the front gears.",
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "Escape 2",
+    "id": 1684424,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759594/large_1000015490.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K9GK91802",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.51,
+      -122.69
+    ],
+    "stolen_location": "Portland, OR 97201, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759594/small_1000015490.png",
+    "title": "2021 Giant Escape 2",
+    "url": "https://bikeindex.org/bikes/1684424",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697896800,
+    "description": "Has a puppy water bottle holder attached to frame",
+    "frame_colors": [
+      "Red",
+      "Black"
+    ],
+    "frame_model": "Dolce sport",
+    "id": 1684666,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC602173035N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.48,
+      -122.64
+    ],
+    "stolen_location": "Portland, OR 97202, US",
+    "thumb": null,
+    "title": "2019 Specialized Dolce sport",
+    "url": "https://bikeindex.org/bikes/1684666",
+    "year": 2019
+  }
+]
