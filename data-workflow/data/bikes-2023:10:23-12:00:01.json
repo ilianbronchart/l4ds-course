@@ -1,0 +1,1146 @@
+[
+  {
+    "date_stolen": 1698058800,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Domane",
+    "id": 1685358,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760092/large_TREK.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU139G0207N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      41.92,
+      -87.7
+    ],
+    "stolen_location": "Chicago, IL 60647, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760092/small_TREK.jpeg",
+    "title": "2018 Trek Domane",
+    "url": "https://bikeindex.org/bikes/1685358",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1698046797,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "EX6",
+    "id": 1685322,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hiboy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "FMK12GDM2C230300230",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.49,
+      -122.69
+    ],
+    "stolen_location": "Portland, OR 97239, US",
+    "thumb": null,
+    "title": "2023 Hiboy EX6",
+    "url": "https://bikeindex.org/bikes/1685322",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698045685,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Super73 S2",
+    "id": 1685320,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760079/large_77059D5F-35DB-4046-9870-881B50474D6B.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Super73",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "F00LY4093",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.86,
+      -122.23
+    ],
+    "stolen_location": "Berkeley, CA 94705, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760079/small_77059D5F-35DB-4046-9870-881B50474D6B.jpeg",
+    "title": "2023 Super73 Super73 S2",
+    "url": "https://bikeindex.org/bikes/1685320",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698038178,
+    "description": null,
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Rockhopper",
+    "id": 1685302,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      51.05,
+      -114.07
+    ],
+    "stolen_location": "Calgary, T2P 2W1, CA",
+    "thumb": null,
+    "title": "2019 Specialized Rockhopper",
+    "url": "https://bikeindex.org/bikes/1685302",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698035158,
+    "description": "FULL SUSPENSION COMPETITION MOUNTAIN BIKE",
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Black",
+      "Blue"
+    ],
+    "frame_model": "RAZORBACK 3.0",
+    "id": 84743,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "K2",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "H1L05720",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2016 K2 RAZORBACK 3.0",
+    "url": "https://bikeindex.org/bikes/84743",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1698033600,
+    "description": null,
+    "frame_colors": [
+      "Brown",
+      "Teal"
+    ],
+    "frame_model": "Strada",
+    "id": 1685297,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760064/large_IMG_2608_.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Bianchi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.88,
+      -117.24
+    ],
+    "stolen_location": "La Jolla, CA 92092, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760064/small_IMG_2608_.jpeg",
+    "title": "Bianchi Strada",
+    "url": "https://bikeindex.org/bikes/1685297",
+    "year": null
+  },
+  {
+    "date_stolen": 1698033600,
+    "description": null,
+    "frame_colors": [
+      "Blue",
+      "Silver, gray or bare metal",
+      "Purple"
+    ],
+    "frame_model": "Alight",
+    "id": 1685298,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760061/large_64363.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K4GK08810",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.25,
+      -122.48
+    ],
+    "stolen_location": "Tacoma, WA 98405, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760061/small_64363.jpg",
+    "title": "2022 Giant Alight",
+    "url": "https://bikeindex.org/bikes/1685298",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698030464,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "RX",
+    "id": 1685232,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Supercross",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "F11CY091821Y04",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.7,
+      -74.01
+    ],
+    "stolen_location": "Nyc, NY 10004, US",
+    "thumb": null,
+    "title": "2022 Supercross RX",
+    "url": "https://bikeindex.org/bikes/1685232",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698029749,
+    "description": null,
+    "frame_colors": [
+      "Purple"
+    ],
+    "frame_model": "Co-op Cycles CTY 1.1 Step-Through Bike",
+    "id": 1685225,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760031/large_bike.jpg",
+    "location_found": null,
+    "manufacturer_name": "REI Co-op",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.67,
+      -122.12
+    ],
+    "stolen_location": "Redmond, WA 98052, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760031/small_bike.jpg",
+    "title": "2022 REI Co-op Co-op Cycles CTY 1.1 Step-Through Bike",
+    "url": "https://bikeindex.org/bikes/1685225",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698026400,
+    "description": "",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Straggler",
+    "id": 397474,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760024/large_DSCF8699.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Surly",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "M15061213",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98122, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760024/small_DSCF8699.jpeg",
+    "title": "2015 Surly Straggler",
+    "url": "https://bikeindex.org/bikes/397474",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1698026128,
+    "description": null,
+    "frame_colors": [
+      "Blue",
+      "Green"
+    ],
+    "frame_model": "Aggressor",
+    "id": 1685213,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "CM18MS47496",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.53,
+      -113.6
+    ],
+    "stolen_location": "Edmonton, T5P 3G8, CA",
+    "thumb": null,
+    "title": "2019 GT Bicycles Aggressor",
+    "url": "https://bikeindex.org/bikes/1685213",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698022800,
+    "description": null,
+    "frame_colors": [
+      "Red",
+      "Black"
+    ],
+    "frame_model": "Domane SLR 6 AXS 56 Metallic Red Smoke to Red Carbon Smoke Gen 4",
+    "id": 1685206,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760017/large_Domane.png",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU155QU0163T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.77,
+      -122.41
+    ],
+    "stolen_location": "San Francisco, CA 94103, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760017/small_Domane.png",
+    "title": "2023 Trek Domane SLR 6 AXS 56 Metallic Red Smok...",
+    "url": "https://bikeindex.org/bikes/1685206",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698019022,
+    "description": "",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "",
+    "id": 1685177,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759998/large_IMG_5012.jpeg",
+    "location_found": null,
+    "manufacturer_name": "SE Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759998/small_IMG_5012.jpeg",
+    "title": "2019 SE Bikes",
+    "url": "https://bikeindex.org/bikes/1685177",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698015699,
+    "description": "TREK MARLIN 5 XL 29 RADIOACTIVE RED 22\r\nbrand new",
+    "frame_colors": [
+      "Red",
+      "White"
+    ],
+    "frame_model": "Mountain BIKE",
+    "id": 1409714,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/643909/large_MARLIN_5_XL_29_RED.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU203JV0055S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/643909/small_MARLIN_5_XL_29_RED.jpeg",
+    "title": "2022 Trek Mountain BIKE",
+    "url": "https://bikeindex.org/bikes/1409714",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698014677,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Stumpjumper Evo ",
+    "id": 1685132,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760036/large_20220920_144427.jpg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC004001412S",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.56,
+      -122.13
+    ],
+    "stolen_location": "Bellevue, WA 98006, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760036/small_20220920_144427.jpg",
+    "title": "2022 Specialized Stumpjumper Evo",
+    "url": "https://bikeindex.org/bikes/1685132",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698012000,
+    "description": "Raw frame. Black bars. Black forks. Purple rims",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Trust",
+    "id": 991083,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/389380/large_20201231_132704_2.jpg",
+    "location_found": null,
+    "manufacturer_name": "WeThePeople",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "CI20E01175",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.53,
+      -113.59
+    ],
+    "stolen_location": "Edmonton, T5R 1X1, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/389380/small_20201231_132704_2.jpg",
+    "title": "2021 WeThePeople Trust",
+    "url": "https://bikeindex.org/bikes/991083",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698012000,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Emmy",
+    "id": 1685194,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760011/large_IMG_3313.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Micargi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "08LKTJU9LD4K61BP4HN",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760011/small_IMG_3313.jpeg",
+    "title": "2023 Micargi Emmy",
+    "url": "https://bikeindex.org/bikes/1685194",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698012000,
+    "description": "Mainly black with subtle iridescent blue highlights on the lower portions of the frame. Wheels aren’t stock and are black with tan side walls. Mudguards have been installed on both wheels. Handlebar grip tape is dark grey and extra soft. Crank has been updated to new Shimano Claris. New RaceFace black pedals. Stock Marin seat. ",
+    "frame_colors": [
+      "Black",
+      "Blue"
+    ],
+    "frame_model": "Gestalt",
+    "id": 1685335,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760086/large_IMG_0121.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Marin Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.23,
+      -79.84
+    ],
+    "stolen_location": "Hamilton, L8V 4J7, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760086/small_IMG_0121.jpeg",
+    "title": "2021 Marin Bikes Gestalt",
+    "url": "https://bikeindex.org/bikes/1685335",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698008400,
+    "description": "Front and rear supension brand is Fox\r\n27.5 inch tire\r\nSLX  crank set",
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1685228,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760038/large_20231012_093813.jpg",
+    "location_found": null,
+    "manufacturer_name": "Merida Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.52,
+      -113.63
+    ],
+    "stolen_location": "West Edmonton, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760038/small_20231012_093813.jpg",
+    "title": "2015 Merida Bikes",
+    "url": "https://bikeindex.org/bikes/1685228",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1698008400,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Aspect 780",
+    "id": 1685290,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760060/large_IMG_6059.jpeg",
+    "location_found": null,
+    "manufacturer_name": "SCOTT",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C5DC9716",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.98,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70119, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760060/small_IMG_6059.jpeg",
+    "title": "2019 SCOTT Aspect 780",
+    "url": "https://bikeindex.org/bikes/1685290",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698008400,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Tread 1.5",
+    "id": 1685219,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760019/large_IMG_4048.jpg",
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WBD074L1405L",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      48.76,
+      -122.49
+    ],
+    "stolen_location": "Bellingham, WA 98225, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760019/small_IMG_4048.jpg",
+    "title": "2015 Fuji Tread 1.5",
+    "url": "https://bikeindex.org/bikes/1685219",
+    "year": 2015
+  },
+  {
+    "date_stolen": 1698007808,
+    "description": null,
+    "frame_colors": [
+      "Red",
+      "Yellow or Gold"
+    ],
+    "frame_model": null,
+    "id": 1685063,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Gary Fisher",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.74,
+      -105.07
+    ],
+    "stolen_location": "Lakewood, CO 80214, US",
+    "thumb": null,
+    "title": "Gary Fisher",
+    "url": "https://bikeindex.org/bikes/1685063",
+    "year": null
+  },
+  {
+    "date_stolen": 1698006954,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Black",
+    "id": 1685055,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Electra",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "y13j001158",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.55,
+      -113.48
+    ],
+    "stolen_location": "Edmonton, T5H 0G5, CA",
+    "thumb": null,
+    "title": "2023 Electra Black",
+    "url": "https://bikeindex.org/bikes/1685055",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698004800,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Blue"
+    ],
+    "frame_model": "Remedy ",
+    "id": 1685057,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.86,
+      -122.27
+    ],
+    "stolen_location": "Berkeley, CA 94704, US",
+    "thumb": null,
+    "title": "2016 Trek Remedy",
+    "url": "https://bikeindex.org/bikes/1685057",
+    "year": 2016
+  },
+  {
+    "date_stolen": 1698004800,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Scene",
+    "id": 660462,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/187890/large_image.jpg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SNOC-364",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.51,
+      -113.5
+    ],
+    "stolen_location": "Edmonton, T6E 4V9, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/187890/small_image.jpg",
+    "title": "2019 Norco Bikes Scene",
+    "url": "https://bikeindex.org/bikes/660462",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698004800,
+    "description": "Red bike with a black bike rack on the back. White light attached to the handle bars, red light under the seat. Water bottle holder attached to the frame.",
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "",
+    "id": 1649406,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/740787/large_Bike_Picture.jpg",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU253XC0432T",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.02,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO 80310, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/740787/small_Bike_Picture.jpg",
+    "title": "2023 Trek",
+    "url": "https://bikeindex.org/bikes/1649406",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698004800,
+    "description": null,
+    "frame_colors": [
+      "Green",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Quick 4 - women",
+    "id": 1685052,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759919/large_DESCRI.png",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "YF91491",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, Vermont, VT 05401, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759919/small_DESCRI.png",
+    "title": "2021 Cannondale Quick 4 - women",
+    "url": "https://bikeindex.org/bikes/1685052",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698002743,
+    "description": "",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Via Nirone Claris Compact",
+    "id": 1685018,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Bianchi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WBK472586N",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "Bianchi Via Nirone Claris Compact",
+    "url": "https://bikeindex.org/bikes/1685018",
+    "year": null
+  },
+  {
+    "date_stolen": 1698001200,
+    "description": null,
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Discover 1",
+    "id": 1685015,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Velotric",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      30.27,
+      -97.68
+    ],
+    "stolen_location": "Austin, TX 78721, US",
+    "thumb": null,
+    "title": "2023 Velotric Discover 1",
+    "url": "https://bikeindex.org/bikes/1685015",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698000872,
+    "description": "Bike is in solid condition and will look clean. Has Shimano PD-EH500 SPD pedals and a black bell on the left handle bar. \r\n\r\nWas taken from Parkallen in Edmonton on Oct 21, 2023.",
+    "frame_colors": [
+      "Black",
+      "Yellow or Gold"
+    ],
+    "frame_model": "GTR Series 4",
+    "id": 1685004,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759884/large_Screenshot_2023-10-22_125932.png",
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.51,
+      -113.52
+    ],
+    "stolen_location": "Edmonton, T6H 3G2, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759884/small_Screenshot_2023-10-22_125932.png",
+    "title": "2009 GT Bicycles GTR Series 4",
+    "url": "https://bikeindex.org/bikes/1685004",
+    "year": 2009
+  },
+  {
+    "date_stolen": 1697998685,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": null,
+    "id": 1684984,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.63,
+      -71.3
+    ],
+    "stolen_location": "Lowell, MA 01852, US",
+    "thumb": null,
+    "title": "2021 Fuji",
+    "url": "https://bikeindex.org/bikes/1684984",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697995404,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Vado",
+    "id": 1664012,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2020 Specialized Vado",
+    "url": "https://bikeindex.org/bikes/1664012",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1697994767,
+    "description": null,
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Mountain Bike",
+    "id": 1091065,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "DJM0198778",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2021 Other Mountain Bike",
+    "url": "https://bikeindex.org/bikes/1091065",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1697994000,
+    "description": "Matte Black Topstone 4 Gravel Bike. Had lights on the right handle bar and back of seat. An underseat storage bag, water bottle cage, and a tire pump were also attached on the bike. AirTag was removed from under seat and left a block away from where the bike was stolen. Suspect there's cosmetic damage from forced removal of Kryptonite lock.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Topstone 4",
+    "id": 1684967,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759863/large_IMG_8872.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "FC47477",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.17,
+      -118.4
+    ],
+    "stolen_location": "Valley Village, CA 91607, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759863/small_IMG_8872.jpeg",
+    "title": "2023 Cannondale Topstone 4",
+    "url": "https://bikeindex.org/bikes/1684967",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697990400,
+    "description": "Silver Series aluminum comfort , neon green Cannondale cup holder",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Napa",
+    "id": 1684981,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759875/large_1000000093.jpg",
+    "location_found": null,
+    "manufacturer_name": "Gary Fisher",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.31,
+      -82.95
+    ],
+    "stolen_location": "Chillicothe, OH 45601, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759875/small_1000000093.jpg",
+    "title": "2007 Gary Fisher Napa",
+    "url": "https://bikeindex.org/bikes/1684981",
+    "year": 2007
+  },
+  {
+    "date_stolen": 1697990400,
+    "description": "Yellow GT with bull horns and black forks and bike rack ",
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Palomar",
+    "id": 1451508,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759872/large_1000000095.jpg",
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "POJMO9726",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.31,
+      -82.95
+    ],
+    "stolen_location": "Chillicothe, OH 45601, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759872/small_1000000095.jpg",
+    "title": "GT Bicycles Palomar",
+    "url": "https://bikeindex.org/bikes/1451508",
+    "year": null
+  },
+  {
+    "date_stolen": 1697986800,
+    "description": "Black RadRunner2 ebike with back baskets and cup holder. ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "RadRunner2 ",
+    "id": 1403615,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2B22V2862",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.45,
+      -112.08
+    ],
+    "stolen_location": "Phoenix, AZ 85003, US",
+    "thumb": null,
+    "title": "2022 Rad Power Bikes RadRunner2",
+    "url": "https://bikeindex.org/bikes/1403615",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1697986800,
+    "description": "",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Dew",
+    "id": 1552026,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759883/large_IMG_2174.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "in22040847",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.55,
+      -113.49
+    ],
+    "stolen_location": "Edmonton, T5K 0G6, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759883/small_IMG_2174.jpeg",
+    "title": "2023 Kona Dew",
+    "url": "https://bikeindex.org/bikes/1552026",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1697986800,
+    "description": "North rock, model XCT 27.5 front suspension, shimano Altus drivetrain with 21 speeds, tires Maxxis mountain 69.85x5.58 cms. Black with blue ",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "LH2 Aluminum ",
+    "id": 774056,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Northrock",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C1FL2301",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.56,
+      -113.39
+    ],
+    "stolen_location": "Edmonton, T5W 1V8, CA",
+    "thumb": null,
+    "title": "Northrock LH2 Aluminum",
+    "url": "https://bikeindex.org/bikes/774056",
+    "year": null
+  },
+  {
+    "date_stolen": 1697979600,
+    "description": "Tan and beige cruiser Townie bike. It was a pink cat bell and a basket. The basket is slightly bent from having fallen over.",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Cruiser",
+    "id": 1684893,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759830/large_tradein_101833_07bhpl.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Electra",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU020C1438P",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.51,
+      -113.51
+    ],
+    "stolen_location": "Edmonton, T6E 0X5, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759830/small_tradein_101833_07bhpl.jpeg",
+    "title": "2019 Electra Cruiser",
+    "url": "https://bikeindex.org/bikes/1684893",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1697979600,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Kathmandu Hybrid One M",
+    "id": 1684888,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/759810/large_97EBF0F5-9FA1-482A-A5C6-FCDA4B3F4328.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cube",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "58871-59-WOW39671PSCT",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      50,
+      8.24
+    ],
+    "stolen_location": "Mainz, 55122, DE",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/759810/small_97EBF0F5-9FA1-482A-A5C6-FCDA4B3F4328.jpeg",
+    "title": "2022 Cube Kathmandu Hybrid One M",
+    "url": "https://bikeindex.org/bikes/1684888",
+    "year": 2022
+  }
+]
