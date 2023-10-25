@@ -1,0 +1,721 @@
+[
+  {
+    "date_stolen": 1698209603,
+    "description": null,
+    "frame_colors": [
+      "Orange",
+      "Black"
+    ],
+    "frame_model": "Unknown ",
+    "id": 1686372,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760638/large_9A78A71C-0DFC-4C87-A6A5-65EB8E38891E.png",
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.73,
+      -104.96
+    ],
+    "stolen_location": "Denver, CO 80206, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760638/small_9A78A71C-0DFC-4C87-A6A5-65EB8E38891E.png",
+    "title": "1972 Fuji Unknown",
+    "url": "https://bikeindex.org/bikes/1686372",
+    "year": 1972
+  },
+  {
+    "date_stolen": 1698206178,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1397759,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "04S2786B/071-1128-2",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": null,
+    "title": "Schwinn",
+    "url": "https://bikeindex.org/bikes/1397759",
+    "year": null
+  },
+  {
+    "date_stolen": 1698205451,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Rook",
+    "id": 1684899,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Surface604",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K17KH00164",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": null,
+    "title": "Surface604 Rook",
+    "url": "https://bikeindex.org/bikes/1684899",
+    "year": null
+  },
+  {
+    "date_stolen": 1698202800,
+    "description": "Its a 2006 Norco Ryde \r\nDirt jumper frame style with a reinforcement bracket under the seat in the shape of triangle with shovels on them ( refer to photos) .. It has a bunch of stickers on the lower frame bar and on the right side of the fork.",
+    "frame_colors": [
+      "Black",
+      "Stickers tape or other cover-up"
+    ],
+    "frame_model": "Ryde",
+    "id": 1686398,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760656/large_download__1_.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.45,
+      -113.48
+    ],
+    "stolen_location": "Edmonton, T6N 1K7, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760656/small_download__1_.jpeg",
+    "title": "2006 Norco Bikes Ryde",
+    "url": "https://bikeindex.org/bikes/1686398",
+    "year": 2006
+  },
+  {
+    "date_stolen": 1698195600,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "XL",
+    "id": 1686278,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760578/large_CD00020A-CC77-4FB8-A45C-0896BBDB226B.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K9GK90344",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.77,
+      -122.41
+    ],
+    "stolen_location": "San Francisco, CA 94103, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760578/small_CD00020A-CC77-4FB8-A45C-0896BBDB226B.jpeg",
+    "title": "2022 Giant XL",
+    "url": "https://bikeindex.org/bikes/1686278",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698195600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "TRKLRD",
+    "id": 1237216,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Throne Cycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "20tm0645",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.84,
+      -122.28
+    ],
+    "stolen_location": "Oakland, CA 94608, US",
+    "thumb": null,
+    "title": "2021 Throne Cycles TRKLRD",
+    "url": "https://bikeindex.org/bikes/1237216",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698195600,
+    "description": "Brown Specialized Crosstrail with black basket, green bell, and seat cover",
+    "frame_colors": [
+      "Brown"
+    ],
+    "frame_model": "Crosstrail",
+    "id": 631173,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760645/large_bike.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WUD096060977E",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.45,
+      -122.16
+    ],
+    "stolen_location": "Palo Alto, CA 94301, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760645/small_bike.jpeg",
+    "title": "Specialized Crosstrail",
+    "url": "https://bikeindex.org/bikes/631173",
+    "year": null
+  },
+  {
+    "date_stolen": 1698194025,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "ALLEZ",
+    "id": 1686256,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760558/large_90018-71_ALLEZ_BLK-CHAR_HERO.png",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "90018-7152",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.98,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70119, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760558/small_90018-71_ALLEZ_BLK-CHAR_HERO.png",
+    "title": "2018 Specialized ALLEZ",
+    "url": "https://bikeindex.org/bikes/1686256",
+    "year": 2018
+  },
+  {
+    "date_stolen": 1698192000,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Dioko",
+    "id": 1685846,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760642/large_IMG_20231023_202337227.jpg",
+    "location_found": null,
+    "manufacturer_name": "Dioko",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "ws13070214",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      32.73,
+      -117.16
+    ],
+    "stolen_location": "San Diego, CA 92101, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760642/small_IMG_20231023_202337227.jpg",
+    "title": "Dioko Dioko",
+    "url": "https://bikeindex.org/bikes/1685846",
+    "year": null
+  },
+  {
+    "date_stolen": 1698192000,
+    "description": "Around 1250 miles, display is LCD but broken, Seat has been replaced with Black seat with Backrest, Rubber Grips, Back Motor, Spokes have been replaced before so some are Black some are Silver (Silver are replaced ones)",
+    "frame_colors": [
+      "White",
+      "Green"
+    ],
+    "frame_model": "",
+    "id": 1686245,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760556/large_IMG_0021.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.58,
+      -104.72
+    ],
+    "stolen_location": "Aurora, CO 80016, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760556/small_IMG_0021.jpeg",
+    "title": "2023 Other",
+    "url": "https://bikeindex.org/bikes/1686245",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698181200,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": null,
+    "id": 1686168,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760520/large_tempImageEzia0U.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K1HK76819",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.3
+    ],
+    "stolen_location": "Seattle, WA 98122, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760520/small_tempImageEzia0U.jpg",
+    "title": "Giant",
+    "url": "https://bikeindex.org/bikes/1686168",
+    "year": null
+  },
+  {
+    "date_stolen": 1698181200,
+    "description": null,
+    "frame_colors": [
+      "Red"
+    ],
+    "frame_model": "Excelle",
+    "id": 1686163,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760517/large_PXL_20220222_215649929.MP_crop.jpg",
+    "location_found": null,
+    "manufacturer_name": "Lotus",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, VT 05401, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760517/small_PXL_20220222_215649929.MP_crop.jpg",
+    "title": "Lotus Excelle",
+    "url": "https://bikeindex.org/bikes/1686163",
+    "year": null
+  },
+  {
+    "date_stolen": 1698181200,
+    "description": "Black on black",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Storm 3",
+    "id": 1685668,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760519/large_20231024_152953.jpg",
+    "location_found": null,
+    "manufacturer_name": "Norco Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "B54NCX8K169",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "P, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760519/small_20231024_152953.jpg",
+    "title": "2023 Norco Bikes Storm 3",
+    "url": "https://bikeindex.org/bikes/1685668",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698178900,
+    "description": "",
+    "frame_colors": [
+      "Green"
+    ],
+    "frame_model": "Cross 1.7",
+    "id": 1549772,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Fuji",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "871828m07",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "2023 Fuji Cross 1.7",
+    "url": "https://bikeindex.org/bikes/1549772",
+    "year": 2023
+  },
+  {
+    "date_stolen": 1698176823,
+    "description": "5\" Ridge Rider Classic P749 - w/ Rims (BIKE ONLY)",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Ridge Rider Classic ",
+    "id": 1437302,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760488/large_ridge-rider.jpg",
+    "location_found": null,
+    "manufacturer_name": "Pedego Electric Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "LF210617865",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760488/small_ridge-rider.jpg",
+    "title": "2022 Pedego Electric Bikes Ridge Rider Classic",
+    "url": "https://bikeindex.org/bikes/1437302",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698176359,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Rockhopper Sport 27.5",
+    "id": 1686120,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC011253698R",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.42,
+      -71.15
+    ],
+    "stolen_location": "Arlington, MA 02474, US",
+    "thumb": null,
+    "title": "2020 Specialized Rockhopper Sport 27.5",
+    "url": "https://bikeindex.org/bikes/1686120",
+    "year": 2020
+  },
+  {
+    "date_stolen": 1698174000,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Arc",
+    "id": 1686156,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760511/large_20231019_130530.jpg",
+    "location_found": null,
+    "manufacturer_name": "Yeti",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "0CFFD410001",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.7,
+      -105.04
+    ],
+    "stolen_location": "Denver, CO 80219, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760511/small_20231019_130530.jpg",
+    "title": "2021 Yeti Arc",
+    "url": "https://bikeindex.org/bikes/1686156",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698170868,
+    "description": "Blur CC - Carbon XX1 build, Reserve wheels, Fox Factory shocks. ",
+    "frame_colors": [
+      "Black",
+      "White"
+    ],
+    "frame_model": "Blur",
+    "id": 1686131,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760490/large_IMG_8363_1.png",
+    "location_found": null,
+    "manufacturer_name": "Santa Cruz",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.75,
+      -122.42
+    ],
+    "stolen_location": "San Francisco, CA 94110, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760490/small_IMG_8363_1.png",
+    "title": "2019 Santa Cruz Blur",
+    "url": "https://bikeindex.org/bikes/1686131",
+    "year": 2019
+  },
+  {
+    "date_stolen": 1698170400,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": null,
+    "id": 1646095,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Surface604",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "03V1220362",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.02,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO 80310, US",
+    "thumb": null,
+    "title": "2022 Surface604",
+    "url": "https://bikeindex.org/bikes/1646095",
+    "year": 2022
+  },
+  {
+    "date_stolen": 1698167056,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "RadRunner",
+    "id": 1686039,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR1G21V1048",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.92,
+      -122.31
+    ],
+    "stolen_location": "El Cerrito, CA 94530, US",
+    "thumb": null,
+    "title": "2021 Rad Power Bikes RadRunner",
+    "url": "https://bikeindex.org/bikes/1686039",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698166800,
+    "description": "3 Big gears; 8 Little gears; no springs for suspension; has a flashlight on the front handbars.",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Overlander",
+    "id": 1686033,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Huffy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "66675--9272433H4758",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.19,
+      -92.58
+    ],
+    "stolen_location": "Kirksville, MO 63501, US",
+    "thumb": null,
+    "title": "2003 Huffy Overlander",
+    "url": "https://bikeindex.org/bikes/1686033",
+    "year": 2003
+  },
+  {
+    "date_stolen": 1698166800,
+    "description": "picture shows bike. pretty beat up. has toe clips, size M.",
+    "frame_colors": [
+      "Blue",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Defy 3",
+    "id": 1686037,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760444/large_Screenshot_2023-10-24_110543.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40,
+      -105.09
+    ],
+    "stolen_location": "Lafayette, CO 80026, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760444/small_Screenshot_2023-10-24_110543.png",
+    "title": "2010 Giant Defy 3",
+    "url": "https://bikeindex.org/bikes/1686037",
+    "year": 2010
+  },
+  {
+    "date_stolen": 1698163200,
+    "description": "Grey mountain bike with 29in wheels and red rims, lots of stickers too!",
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Talus 2",
+    "id": 1660858,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SAA19B04230",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.54,
+      -121.74
+    ],
+    "stolen_location": "Davis, CA 95616, US",
+    "thumb": null,
+    "title": "2021 Raleigh Talus 2",
+    "url": "https://bikeindex.org/bikes/1660858",
+    "year": 2021
+  },
+  {
+    "date_stolen": 1698161176,
+    "description": "Older bike, quite heavy with retro-looking stickers. It has a handlebar bag. It is a small ladies' bike with an orange sticker on the front.",
+    "frame_colors": [
+      "Teal",
+      "Purple"
+    ],
+    "frame_model": "Ladies - small",
+    "id": 1685997,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/760429/large_CleanShot_2023-10-23_at_07.23.54_2x.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.03,
+      -118.4
+    ],
+    "stolen_location": "Los Angeles, CA 90034, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/760429/small_CleanShot_2023-10-23_at_07.23.54_2x.png",
+    "title": "Giant Ladies - small",
+    "url": "https://bikeindex.org/bikes/1685997",
+    "year": null
+  },
+  {
+    "date_stolen": 1698156000,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Nel Lusso",
+    "id": 1074492,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Huffy",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "snhtc19b26385",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40,
+      -105.21
+    ],
+    "stolen_location": "Boulder, CO 80303, US",
+    "thumb": null,
+    "title": "Huffy Nel Lusso",
+    "url": "https://bikeindex.org/bikes/1074492",
+    "year": null
+  },
+  {
+    "date_stolen": 1698152400,
+    "description": "Electric Bike with a detachable battery. The serial number is on the battery.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Monster 100",
+    "id": 1545953,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Oraimo",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "JL08243613231520033",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.78,
+      -74.02
+    ],
+    "stolen_location": "Union City, NJ 07087, US",
+    "thumb": null,
+    "title": "2023 Oraimo Monster 100",
+    "url": "https://bikeindex.org/bikes/1545953",
+    "year": 2023
+  }
+]
