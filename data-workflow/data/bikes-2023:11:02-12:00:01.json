@@ -1,0 +1,662 @@
+[
+  {
+    "date_stolen": 1698919767,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Hero sprint compass 27.5 ",
+    "id": 1690448,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hero Cycles Ltd",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "H8248516",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      25.27,
+      82.98
+    ],
+    "stolen_location": "Varanasi, 221005, IN",
+    "thumb": null,
+    "title": "2023 Hero Cycles Ltd Hero sprint compass 27.5",
+    "url": "https://bikeindex.org/bikes/1690448",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698891798,
+    "description": null,
+    "frame_colors": [
+      "Black",
+      "Green"
+    ],
+    "frame_model": "Capra",
+    "id": 1690309,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "YT",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.42,
+      -120.83
+    ],
+    "stolen_location": "Morro Bay, CA 93442, US",
+    "thumb": null,
+    "title": "YT Capra",
+    "url": "https://bikeindex.org/bikes/1690309",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698889773,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Revolt",
+    "id": 1690291,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762282/large_IMG_2502.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "K1GK58866",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.37,
+      -71.12
+    ],
+    "stolen_location": "Boston, MA 02163, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762282/small_IMG_2502.jpg",
+    "title": "2022 Giant Revolt",
+    "url": "https://bikeindex.org/bikes/1690291",
+    "year": 2022,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698884945,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": null,
+    "id": 1690251,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Lectric eBikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SNFSD23G34830",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      31.59,
+      -110.21
+    ],
+    "stolen_location": "Sierra, AZ 85635, US",
+    "thumb": null,
+    "title": "2023 Lectric eBikes",
+    "url": "https://bikeindex.org/bikes/1690251",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698881287,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Radmission1",
+    "id": 1690214,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762254/large_IMG_0006.png",
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "IF1138441 : MI1H21V0026",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      35.13,
+      -106.64
+    ],
+    "stolen_location": "Albuquerque, NM 87107, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762254/small_IMG_0006.png",
+    "title": "2022 Rad Power Bikes Radmission1",
+    "url": "https://bikeindex.org/bikes/1690214",
+    "year": 2022,
+    "propulsion_type_slug": "pedal-assist-and-throttle",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698879600,
+    "description": "",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Atlas",
+    "id": 1573153,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/733997/large_20230812_144524.jpg",
+    "location_found": null,
+    "manufacturer_name": "Evelo",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "AIG121270829",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.76,
+      -104.97
+    ],
+    "stolen_location": "Denver, CO 80205, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/733997/small_20230812_144524.jpg",
+    "title": "2023 Evelo Atlas",
+    "url": "https://bikeindex.org/bikes/1573153",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698876000,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Myka V 650b",
+    "id": 1690192,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762250/large_IMG_20220430_141353679.jpg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WSBC602049354K",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.76,
+      -111.87
+    ],
+    "stolen_location": "Salt Lake City, UT 84102, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762250/small_IMG_20220430_141353679.jpg",
+    "title": "2016 Specialized Myka V 650b",
+    "url": "https://bikeindex.org/bikes/1690192",
+    "year": 2016,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698876000,
+    "description": "ALUXX-Grade Aluminum",
+    "frame_colors": [
+      "Silver, gray or bare metal",
+      "Red"
+    ],
+    "frame_model": "Revel 29er 0",
+    "id": 777541,
+    "is_stock_img": false,
+    "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/7517/Revel_29er_0_v1.jpg",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "C92C0325",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      53.42,
+      -113.51
+    ],
+    "stolen_location": "Edmonton, T6W 1C9, CA",
+    "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/7517/small_Revel_29er_0_v1.jpg",
+    "title": "2013 Giant Revel 29er 0",
+    "url": "https://bikeindex.org/bikes/777541",
+    "year": 2013,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698872400,
+    "description": "Its Electric! Boogie Woogie Woogie! \r\n\r\n\r\nBike Info Actual\r\n-----\r\nThere is a small wooden chip on the back left of my bike on the cargo seat. There is a QR code on the back that goes to Youtube, specifically Technoblade's youtube channel. \r\n\r\nThe pedals on this bike are shiny red, a brown cruiser seat, and 4-inch wide tires. \r\n\r\n\r\nBike Info Fun\r\n-----\r\nThis bike also called the Techno-Mobile was a bike I had customized in tribute to a fallen YouTuber known as Technoblade. He was an important member of my community, and the QR code on my bike leads to his channel. \r\n\r\nThis bike is my only mode of transportation and is my very first 'vehicle' I'm a first gen college student who loves this bike. Shes' my baby",
+    "frame_colors": [
+      "Pink",
+      "Yellow or Gold"
+    ],
+    "frame_model": "Pink",
+    "id": 1385350,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/629797/large_bike_photo.png",
+    "location_found": null,
+    "manufacturer_name": "FattE-Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SBW20080545",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.74,
+      -105.03
+    ],
+    "stolen_location": "Denver, CO 80204, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/629797/small_bike_photo.png",
+    "title": "2022 FattE-Bikes Pink",
+    "url": "https://bikeindex.org/bikes/1385350",
+    "year": 2022,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698872255,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Speedster S30",
+    "id": 1690134,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762240/large_scott_215716_10_z.jpg",
+    "location_found": null,
+    "manufacturer_name": "SCOTT",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "GY9G7078",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.94,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70113, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762240/small_scott_215716_10_z.jpg",
+    "title": "SCOTT Speedster S30",
+    "url": "https://bikeindex.org/bikes/1690134",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698869622,
+    "description": null,
+    "frame_colors": [
+      "Yellow or Gold"
+    ],
+    "frame_model": "Admiral",
+    "id": 1690102,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762236/large_s-l640.jpg",
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.94,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70113, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762236/small_s-l640.jpg",
+    "title": "2023 Schwinn Admiral",
+    "url": "https://bikeindex.org/bikes/1690102",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698868800,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Wayfarer",
+    "id": 1690109,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Schwinn",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.66,
+      -122.27
+    ],
+    "stolen_location": "Seattle, WA 98105, US",
+    "thumb": null,
+    "title": "2023 Schwinn Wayfarer",
+    "url": "https://bikeindex.org/bikes/1690109",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698868800,
+    "description": null,
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Carmel",
+    "id": 1690092,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762228/large_globe.jpg",
+    "location_found": null,
+    "manufacturer_name": "Globe",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WUD80343259D",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      29.94,
+      -90.08
+    ],
+    "stolen_location": "New Orleans, LA 70113, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762228/small_globe.jpg",
+    "title": "2023 Globe Carmel",
+    "url": "https://bikeindex.org/bikes/1690092",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698862440,
+    "description": "",
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Space Horse",
+    "id": 1690081,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762225/large_PXL_20230531_222239153.jpg",
+    "location_found": null,
+    "manufacturer_name": "All City",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "M18090262",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      37.83,
+      -122.26
+    ],
+    "stolen_location": "Oakland, CA 94609, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762225/small_PXL_20230531_222239153.jpg",
+    "title": "2018 All City Space Horse",
+    "url": "https://bikeindex.org/bikes/1690081",
+    "year": 2018,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698861600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "BMX",
+    "id": 1690044,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762219/large_IMG_7248.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cult",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.86,
+      -104.78
+    ],
+    "stolen_location": "Colorado Springs, CO 80909, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762219/small_IMG_7248.jpeg",
+    "title": "Cult BMX",
+    "url": "https://bikeindex.org/bikes/1690044",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698861600,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "BMX",
+    "id": 1690047,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762222/large_IMG_1934.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cult",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.86,
+      -104.78
+    ],
+    "stolen_location": "Colorado Springs, CO 80909, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762222/small_IMG_1934.jpeg",
+    "title": "2023 Cult BMX",
+    "url": "https://bikeindex.org/bikes/1690047",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698861277,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": null,
+    "id": 1690031,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762216/large_MicrosoftTeams-image__2_.png",
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTUC45G0068M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.01,
+      -105.27
+    ],
+    "stolen_location": "Boulder, CO 80302, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762216/small_MicrosoftTeams-image__2_.png",
+    "title": "Trek",
+    "url": "https://bikeindex.org/bikes/1690031",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698860461,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "F1 ",
+    "id": 1690028,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "GOTRAX",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "202212291156",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      39.75,
+      -121.84
+    ],
+    "stolen_location": "Chico, CA 95926, US",
+    "thumb": null,
+    "title": "GOTRAX F1",
+    "url": "https://bikeindex.org/bikes/1690028",
+    "year": null,
+    "propulsion_type_slug": "pedal-assist-and-throttle",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698854400,
+    "description": "",
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "aggressor",
+    "id": 1690015,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/762211/large_IMG_6358.jpg",
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.5,
+      -73.26
+    ],
+    "stolen_location": "Burlington, VT 05408, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/762211/small_IMG_6358.jpg",
+    "title": "2020 GT Bicycles aggressor",
+    "url": "https://bikeindex.org/bikes/1690015",
+    "year": 2020,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698852760,
+    "description": "Specialized M4SL Aluminum, 29er singlespeed specific frame w/ XC geometry, fully butted w/ smooth welding, tapered headtube and seat tube, forged post mount 160mm disc dropouts, alloy replaceable der. hanger",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Carve SL 29",
+    "id": 1689970,
+    "is_stock_img": false,
+    "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/3534/46327",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.25,
+      -75.65
+    ],
+    "stolen_location": "Pottstown, PA 19464, US",
+    "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/3534/small_46327",
+    "title": "2013 Specialized Carve SL 29",
+    "url": "https://bikeindex.org/bikes/1689970",
+    "year": 2013,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698851143,
+    "description": "Kona Race Light 7005 Aluminum Butted",
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "MOHALA",
+    "id": 1689959,
+    "is_stock_img": false,
+    "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/9282/mohala.jpg",
+    "location_found": null,
+    "manufacturer_name": "Kona",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "F1112K5686",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "CA",
+    "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/9282/small_mohala.jpg",
+    "title": "2014 Kona MOHALA",
+    "url": "https://bikeindex.org/bikes/1689959",
+    "year": 2014,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1698846451,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Step through- citizen 1",
+    "id": 1689933,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Jamis",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, VT 05401, US",
+    "thumb": null,
+    "title": "2020 Jamis Step through- citizen 1",
+    "url": "https://bikeindex.org/bikes/1689933",
+    "year": 2020,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  }
+]
