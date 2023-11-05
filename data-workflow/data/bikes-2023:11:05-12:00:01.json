@@ -1,0 +1,691 @@
+[
+  {
+    "date_stolen": 1699162867,
+    "description": null,
+    "frame_colors": [
+      "Teal"
+    ],
+    "frame_model": "Eros",
+    "id": 1691708,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Bianchi",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.63,
+      -122.32
+    ],
+    "stolen_location": "Seattle, WA 98102, US",
+    "thumb": null,
+    "title": "1990 Bianchi Eros",
+    "url": "https://bikeindex.org/bikes/1691708",
+    "year": 1990,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699161045,
+    "description": "Hybrid/commuter with black luggage rack and black trunk bag",
+    "frame_colors": [
+      "Orange"
+    ],
+    "frame_model": "Crossroads",
+    "id": 1691706,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763294/large_IMG_7114_Original.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "ENDING1516M",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.94,
+      -93.25
+    ],
+    "stolen_location": "Minneapolis, MN 55407, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763294/small_IMG_7114_Original.jpeg",
+    "title": "2018 Specialized Crossroads",
+    "url": "https://bikeindex.org/bikes/1691706",
+    "year": 2018,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699157003,
+    "description": "TN 64 C 0644",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "",
+    "id": 1691583,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hero honda",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "HA10EFBHC70649",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "IN",
+    "thumb": null,
+    "title": "2011 Hero honda",
+    "url": "https://bikeindex.org/bikes/1691583",
+    "year": 2011,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699149600,
+    "description": null,
+    "frame_colors": [
+      "Pink"
+    ],
+    "frame_model": "Grizle",
+    "id": 1691569,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763273/large_IMG_6759.png",
+    "location_found": null,
+    "manufacturer_name": "Canyon bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.66,
+      -70.26
+    ],
+    "stolen_location": "Portland, ME 04101, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763273/small_IMG_6759.png",
+    "title": "2023 Canyon bicycles Grizle",
+    "url": "https://bikeindex.org/bikes/1691569",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699147315,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Ranger S",
+    "id": 1691563,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Haibike",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "HBK230415486",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.95,
+      -118.35
+    ],
+    "stolen_location": "Inglewood, CA 90301, US",
+    "thumb": null,
+    "title": "2023 Haibike Ranger S",
+    "url": "https://bikeindex.org/bikes/1691563",
+    "year": 2023,
+    "propulsion_type_slug": "pedal-assist",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699146000,
+    "description": "",
+    "frame_colors": [
+      "Green",
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Inflite",
+    "id": 355825,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/95382/large_IMG_20170718_202205.jpg",
+    "location_found": null,
+    "manufacturer_name": "Canyon bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "6E36879",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      42.36,
+      -71.13
+    ],
+    "stolen_location": "Boston, MA 02134, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/95382/small_IMG_20170718_202205.jpg",
+    "title": "2017 Canyon bicycles Inflite",
+    "url": "https://bikeindex.org/bikes/355825",
+    "year": 2017,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699140376,
+    "description": null,
+    "frame_colors": [
+      "Blue"
+    ],
+    "frame_model": "Vtt",
+    "id": 1691546,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Author",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SEP1320M20715",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      34.01,
+      -118.47
+    ],
+    "stolen_location": "Santa Monica, CA 90405, US",
+    "thumb": null,
+    "title": "2023 Author Vtt",
+    "url": "https://bikeindex.org/bikes/1691546",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699135196,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Men's ",
+    "id": 1691530,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "U179K01039",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, VT 05401, US",
+    "thumb": null,
+    "title": "2018 Raleigh Men's",
+    "url": "https://bikeindex.org/bikes/1691530",
+    "year": 2018,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699135196,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "Men's ",
+    "id": 1691531,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Raleigh",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "U179K01039",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.48,
+      -73.21
+    ],
+    "stolen_location": "Burlington, VT 05401, US",
+    "thumb": null,
+    "title": "2018 Raleigh Men's",
+    "url": "https://bikeindex.org/bikes/1691531",
+    "year": 2018,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699132334,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Fat tire",
+    "id": 1691517,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Wallke",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.17,
+      -111.61
+    ],
+    "stolen_location": "Springville, UT 84663, US",
+    "thumb": null,
+    "title": "2022 Wallke Fat tire",
+    "url": "https://bikeindex.org/bikes/1691517",
+    "year": 2022,
+    "propulsion_type_slug": "pedal-assist-and-throttle",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699131600,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Black",
+    "id": 1691504,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "VR2121V2995",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.14,
+      -117.32
+    ],
+    "stolen_location": "Carlsbad, CA 92008, US",
+    "thumb": null,
+    "title": "2023 Rad Power Bikes Black",
+    "url": "https://bikeindex.org/bikes/1691504",
+    "year": 2023,
+    "propulsion_type_slug": "pedal-assist",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699128916,
+    "description": "SuperSix, Hi-Mod full carbon, BB30, SAVE",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Super Six Hi Mod 2 Red",
+    "id": 1691477,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763118/large_IMG_1407.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "QM27031",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      45.59,
+      -122.69
+    ],
+    "stolen_location": "Portland, OR 97217, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763118/small_IMG_1407.jpeg",
+    "title": "2011 Cannondale Super Six Hi Mod 2 Red",
+    "url": "https://bikeindex.org/bikes/1691477",
+    "year": 2011,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699128000,
+    "description": null,
+    "frame_colors": [
+      "Blue",
+      "Green"
+    ],
+    "frame_model": null,
+    "id": 1691488,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763147/large_IMG_1154.jpeg",
+    "location_found": null,
+    "manufacturer_name": "Rocky Mountain Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "SRMK2205560",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      49.72,
+      -112.81
+    ],
+    "stolen_location": "Lethbridge, T1H 3V5, CA",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763147/small_IMG_1154.jpeg",
+    "title": "2023 Rocky Mountain Bicycles",
+    "url": "https://bikeindex.org/bikes/1691488",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699121517,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Unknown",
+    "id": 1650545,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Unknown",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "U90302378",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": null,
+    "stolen_location": "US",
+    "thumb": null,
+    "title": "Unknown Unknown",
+    "url": "https://bikeindex.org/bikes/1650545",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699121341,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": null,
+    "id": 1691448,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Trek",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "WTU095C2254L",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.61,
+      -122.33
+    ],
+    "stolen_location": "Seattle, WA, US",
+    "thumb": null,
+    "title": "2023 Trek",
+    "url": "https://bikeindex.org/bikes/1691448",
+    "year": 2023,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699120800,
+    "description": "I have added (1) 3-bolt pedals, (2) black looped handlebar extenders, and (3) an REI saddlebag to this bike. I do not have a photo of the bike with these modifications, but they should be helpful in identifying the bike.",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "OCR 1",
+    "id": 1691457,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763104/large_Screenshot_2023-11-04_at_1.51.55_PM.png",
+    "location_found": null,
+    "manufacturer_name": "Giant",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.91,
+      -77.04
+    ],
+    "stolen_location": "Washington, DC 20036, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763104/small_Screenshot_2023-11-04_at_1.51.55_PM.png",
+    "title": "Giant OCR 1",
+    "url": "https://bikeindex.org/bikes/1691457",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699120800,
+    "description": "Specialized Stumpjumper hard tail , black and red with orange handle grips.",
+    "frame_colors": [
+      "Red",
+      "Black"
+    ],
+    "frame_model": "Stumpjumper Expert Carbon EVO R 29",
+    "id": 1691435,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763088/large_IMG_9276.png",
+    "location_found": null,
+    "manufacturer_name": "Specialized",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      43.08,
+      -87.88
+    ],
+    "stolen_location": "Milwaukee, WI 53211, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763088/small_IMG_9276.png",
+    "title": "Specialized Stumpjumper Expert Carbon EVO R 29",
+    "url": "https://bikeindex.org/bikes/1691435",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699120800,
+    "description": "Bad Boy with front and rear extendable fenders, Hill People Gear frame bag, and a bell",
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "Bad Boy",
+    "id": 685004,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/214325/large_2018_Bad_Boy.jpg",
+    "location_found": null,
+    "manufacturer_name": "Cannondale",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "YC50972",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      47.62,
+      -122.35
+    ],
+    "stolen_location": "Seattle, WA 98121, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/214325/small_2018_Bad_Boy.jpg",
+    "title": "2018 Cannondale Bad Boy",
+    "url": "https://bikeindex.org/bikes/685004",
+    "year": 2018,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699119686,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": null,
+    "id": 1691430,
+    "is_stock_img": false,
+    "large_img": "https://files.bikeindex.org/uploads/Pu/763080/large_IMG_9497.png",
+    "location_found": null,
+    "manufacturer_name": "Other",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      44.45,
+      -73.16
+    ],
+    "stolen_location": "Burlington, VT 05403, US",
+    "thumb": "https://files.bikeindex.org/uploads/Pu/763080/small_IMG_9497.png",
+    "title": "2023 Other",
+    "url": "https://bikeindex.org/bikes/1691430",
+    "year": 2023,
+    "propulsion_type_slug": "pedal-assist",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699117999,
+    "description": null,
+    "frame_colors": [
+      "White",
+      "Blue",
+      "Black"
+    ],
+    "frame_model": "Zaskar 100 9r Team",
+    "id": 1691423,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "GT Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      40.49,
+      -105
+    ],
+    "stolen_location": "Fort Collins, CO 80528, US",
+    "thumb": null,
+    "title": "2013 GT Bicycles Zaskar 100 9r Team",
+    "url": "https://bikeindex.org/bikes/1691423",
+    "year": 2013,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699117200,
+    "description": null,
+    "frame_colors": [
+      "Silver, gray or bare metal"
+    ],
+    "frame_model": "600x",
+    "id": 1691441,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Priority Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.88,
+      -104.81
+    ],
+    "stolen_location": "Colorado Springs, CO 80907, US",
+    "thumb": null,
+    "title": "Priority Bicycles 600x",
+    "url": "https://bikeindex.org/bikes/1691441",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699116118,
+    "description": null,
+    "frame_colors": [
+      "Black"
+    ],
+    "frame_model": "600",
+    "id": 1691427,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Priority Bicycles",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "Unknown",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      38.88,
+      -104.81
+    ],
+    "stolen_location": "Colorado Springs, CO 80907, US",
+    "thumb": null,
+    "title": "2020 Priority Bicycles 600",
+    "url": "https://bikeindex.org/bikes/1691427",
+    "year": 2020,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  },
+  {
+    "date_stolen": 1699110000,
+    "description": null,
+    "frame_colors": [
+      "Pink"
+    ],
+    "frame_model": "Bear Mountain",
+    "id": 1691397,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Hyper",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "TPT202212017",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      36.78,
+      -119.42
+    ],
+    "stolen_location": "Spruce Grove, CA, CA",
+    "thumb": null,
+    "title": "Hyper Bear Mountain",
+    "url": "https://bikeindex.org/bikes/1691397",
+    "year": null,
+    "propulsion_type_slug": "foot-pedal",
+    "cycle_type_slug": "bike"
+  }
+]
